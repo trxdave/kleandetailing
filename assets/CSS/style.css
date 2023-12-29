@@ -1,8 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+. {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
 /* navigation links */
+
+body {
+    font-family: Inter, sans-serif;
+    font-weight: 300;
+    color: #3a3a3a
+}
 
 #menu {
     font-size: 110%;
-    letter-spacing: 4px; 
+    letter-spacing: 4px;
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px; 
  }
  
  #menu, #logo {
@@ -28,4 +47,16 @@
     float: left;
     font-size: 280%;
     margin-left: 30px;
+}
+
+#wash-outer {
+    height: 600;
+    width: 100%;
+    overflow: hidden;
+}
+
+#wash-image {
+    height:600px;
+    width: 100%;
+    background: url('assets/image/wash.jpg') no-repeat center center;
 }
