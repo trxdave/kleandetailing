@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
 
-. {
+* {
     margin: 0;
     padding: 0;
-    border: none;
+    box-sizing: border-box;
+    font-family: "poppins";
 }
 
 /* navigation links */
 
 body {
-    font-family: Inter, sans-serif;
-    font-weight: 300;
-    color: #3a3a3a
+    min-height: 100vh;
+    width: 100%;
+    background: #020202;
 }
 
 #menu {
@@ -60,3 +61,36 @@ body {
     width: 100%;
     background: url('assets/image/wash.jpg') no-repeat center center;
 }
+
+/* Footer */
+footer {
+    position: fixed;
+    background: #020202
+    width: 100%;
+    bottom: 0;
+    left: 0; 
+}
+
+.content {
+    max-width: 1250px;
+    margin: auto;
+    padding: 30px 40px 40px 40px;
+}
+
+.content .top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.content .top .logo-details {
+    color: #fff;
+    font-size: 30px;
+}
+
+.content .top .media-icons a {
+    display: flex;
+}
+
+
