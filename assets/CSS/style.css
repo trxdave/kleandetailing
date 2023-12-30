@@ -44,7 +44,7 @@ body {
  }
 
  #logo {
-    float: left;
+    float: middle;
     font-size: 280%;
     margin-left: 30px;
 }
