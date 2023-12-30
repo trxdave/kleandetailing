@@ -4,7 +4,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "poppins";
+    text-align: center;
+
 }
 
 /* navigation links */
@@ -12,63 +13,35 @@
 body {
     min-height: 100vh;
     width: 100%;
-    background: #020202;
+    font-family: "Inter, Arial";
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
 }
 
 #menu {
-    font-size: 110%;
-    letter-spacing: 4px;
     clear: left;
     float: left;
     margin-left: 30px;
     margin-bottom: 20px;
-    line-height: 25px; 
- }
- 
- #menu, #logo {
-     line-height: 75px;
- }
- 
- #menu li {
-     float: right;
-     list-style-type: none;
-     margin-right: 30px;
- }
- 
- #menu a {
-     text-decoration: none;
-     color: inherit
- }
- 
- #menu a:hover {
-     border-bottom: 1px solid #3a3a3a;
- }
-
- #logo {
-    float: middle;
-    font-size: 280%;
-    margin-left: 30px;
+    line-height: 25px;
 }
 
-#wash-outer {
-    height: 600;
-    width: 100%;
-    overflow: hidden;
-}
 
-#wash-image {
-    height:600px;
-    width: 100%;
-    background: url('assets/image/wash.jpg') no-repeat center center;
-}
+
+
+
+
+
 
 /* Footer */
 footer {
     position: fixed;
     background: #020202
-    width: 100%;
-    bottom: 0;
-    left: 0; 
 }
 
 .content {
@@ -89,8 +62,20 @@ footer {
     font-size: 30px;
 }
 
-.content .top .media-icons a {
+.content .top .media-icons {
     display: flex;
 }
 
+.content .top .media-icons a {
+    height: 40px;
+    width: 40px;
+    margin: 0 8px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    color: #fff;
+    font-size: 17px;
+    text-decoration: none;
+    transition: all 0.4s ease;
+}
 
