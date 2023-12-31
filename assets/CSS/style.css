@@ -60,43 +60,9 @@ ul {
 }
 
 /* Footer */
-footer {
-    position: fixed;
-    background: #020202
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: #020202
 }
-
-.content {
-    max-width: 1250px;
-    margin: auto;
-    padding: 30px 40px 40px 40px;
-}
-
-.content .top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 50px;
-}
-
-.content .top .logo-details {
-    color: #fff;
-    font-size: 30px;
-}
-
-.content .top .media-icons {
-    display: flex;
-}
-
-.content .top .media-icons a {
-    height: 40px;
-    width: 40px;
-    margin: 0 8px;
-    border-radius: 50%;
-    text-align: center;
-    line-height: 40px;
-    color: #fff;
-    font-size: 17px;
-    text-decoration: none;
-    transition: all 0.4s ease;
-}
-
