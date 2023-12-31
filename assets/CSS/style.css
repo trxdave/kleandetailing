@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -13,11 +13,11 @@
 body {
     height: 100%;
     width: 100%;
-    font-family: "Inter, Arial";
+    font-family: 'Poppins', sans-serif;
 }
 
 h1, h2 {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
 
@@ -58,6 +58,54 @@ ul {
     transform: translate(-50%, -50%);
     color: white;
 }
+
+.block {
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #00c896;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;    
+}
+
+/* Nav Bar */
+
+.navbar {
+    overflow: hidden;
+    background-color: #f2ecff;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: #313131;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: #00c896;
+  }
 
 /* Footer */
 .footer {
