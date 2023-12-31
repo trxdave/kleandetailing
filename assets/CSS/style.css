@@ -25,12 +25,26 @@ h1, h2 {
 
 #menu {
     clear: left;
-    float: left;
+    float: right;
     margin-left: 30px;
     margin-bottom: 20px;
     line-height: 25px;
 }
 
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
 
 
 
