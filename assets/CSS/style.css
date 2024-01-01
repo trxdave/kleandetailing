@@ -61,15 +61,16 @@ ul {
 
 .block {
     display: block;
-    width: 100%;
+    width: 300px;
     border: none;
     background-color: #a38a09;
     padding: 14px 28px;
-    font-size: 25px;
-    cursor: pointer;
-    text-align: center;
+    font-size: 130%;
     font-weight: bold;
-    border-radius: 5px;    
+    border-radius: 10px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    position: absolute;    
 }
 
 /* Nav Bar */
@@ -109,43 +110,25 @@ ul {
     background-color: #a38a09;
   }
 
-  .card {
-    --bg: #e8e8e8;
-    --contrast: #e2e0e0;
-    --grey: #93a1a1;
-    position: relative;
-    padding: 9px;
-    background-color: var(--bg);
-    border-radius: 35px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  #welcome {
+    padding: 30px 0;
+    margin-top: 0;
   }
-  
-  .card-overlay {
-    position: absolute;
-    inset: 0;
-    pointer-events: none;
-    background: repeating-conic-gradient(var(--bg) 0.0000001%, var(--grey) 0.000104%) 60% 60%/600% 600%;
-    filter: opacity(10%) contrast(105%);
+
+  .list-heading {
+    width: inherit;
   }
-  
-  .card-inner {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    overflow: hidden;
-    width: 190px;
-    height: 254px;
-    background-color: var(--contrast);
-    border-radius: 30px;
-    /* Content style */
-    font-size: 30px;
-    font-weight: 900;
-    color: #c7c4c4;
+
+  .list-heading h2 {
+    width: 100%;
     text-align: center;
-    font-family: monospace;
   }
+
+  .list-heading p {
+    text-align: center;
+    padding: 0px 20px 0px 20px;
+  }
+
 
 
 /* Footer */
