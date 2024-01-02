@@ -2,6 +2,8 @@
 
 * {
     margin: 0;
+    padding: 0;
+    border: 0;
     text-align: center;
 
 }
@@ -19,19 +21,6 @@ h1, h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
 
-}
-
-#menu {
-    clear: left;
-    float: right;
-    margin-left: 30px;
-    margin-bottom: 20px;
-    line-height: 25px;
-}
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 4px;
 }
 
 ul {
@@ -55,20 +44,6 @@ ul {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-}
-
-.block {
-    display: block;
-    width: 300px;
-    border: none;
-    background-color: #a38a09;
-    padding: 14px 28px;
-    font-size: 130%;
-    font-weight: bold;
-    border-radius: 10px;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    position: absolute;    
 }
 
 /* Nav Bar */
@@ -130,10 +105,27 @@ ul {
 
 
 /* Footer */
-.footer {
-    position: relative;
-    bottom: 0;
-    width: 100%;
-    background-color: #020202
+
+footer {
+    height: 150px;
 }
 
+.social-networks {
+    text-align: center;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #313131
+}
+
+.social-networks li {
+    display: inline;
+}
+
+/* Media queries */
+@media screen and (max-width: 1200px){
+
+}
