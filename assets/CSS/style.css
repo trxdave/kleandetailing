@@ -96,12 +96,13 @@ ul {
   }
 
   #welcome {
-    padding: 30px 0;
+    padding: 10px 0;
     margin-top: 0;
   }
 
   * {
     box-sizing: border-box;
+    margin-top: 0px;
   }
   
   /* Create four equal columns that floats next to each other */
