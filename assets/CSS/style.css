@@ -98,7 +98,12 @@ ul {
   #welcome {
     padding: 10px 0;
     margin-top: 0;
+    font-size: 250%;
   }
+
+.description {
+    margin-bottom: 20px;
+}
 
   * {
     box-sizing: border-box;
@@ -108,9 +113,12 @@ ul {
   /* Create four equal columns that floats next to each other */
   .column {
     float: left;
-    width: 25%;
+    width: 24%;
     padding: 10px;
-    height: 300px; /* Should be removed. Only for demonstration */
+    height: 300px;
+    margin-right: 5px;
+    margin-left: 10px;
+    border-radius: 20px;
   }
   
   /* Clear floats after the columns */
