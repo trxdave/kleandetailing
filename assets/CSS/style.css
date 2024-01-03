@@ -131,7 +131,7 @@ ul {
 /* Footer */
 
 footer {
-    height: 150px;
+    height: 80px;
 }
 
 .social-networks {
@@ -139,8 +139,7 @@ footer {
 }
 
 .social-networks i {
-    font-size: 160%;
-    margin: 1%;
+    font-size: 200%;
     padding: 5%;
     color: #313131
 }
