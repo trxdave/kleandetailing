@@ -148,6 +148,16 @@ footer {
     display: inline;
 }
 
+.contact-us {
+    margin: 50px 10% 0 0;
+    color: #fdfcfc;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: 400px;
+    left: 10%;
+    padding: 30px
+}
+
 /* Media queries */
 @media screen and (max-width: 1200px){
 
