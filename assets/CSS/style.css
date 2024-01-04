@@ -158,6 +158,14 @@ footer {
     padding: 30px
 }
 
+.contact-image {
+    clear: left;
+    background: url(assets/image/contact-us.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+}
+
 /* Media queries */
 @media screen and (max-width: 1200px){
 
