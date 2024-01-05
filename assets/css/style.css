@@ -119,6 +119,10 @@ ul {
     margin-right: 5px;
     margin-left: 10px;
     border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
   }
   
   /* Clear floats after the columns */
