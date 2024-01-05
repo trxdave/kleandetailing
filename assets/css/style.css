@@ -83,6 +83,14 @@ ul {
     background-color: #a38a09;
   }
 
+  input.button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    background-color: #a38a09;
+    font-size: 100%
+    }
+
   .block {
     display: block;
     width: 300px;
@@ -115,14 +123,13 @@ ul {
     float: left;
     width: 24%;
     padding: 10px;
-    height: 750px;
+    height: 450px;
     margin-right: 5px;
     margin-left: 10px;
     border-radius: 20px;
     display: flex;
+    flex-wrap: nowrap;
     flex-direction: column;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
   }
   
   /* Clear floats after the columns */
