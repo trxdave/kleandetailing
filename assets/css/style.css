@@ -166,6 +166,13 @@ footer {
   display: flex;
 }
 
+.google-map {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-content: flex-end; 
+}
+
 /* social networks */
 .social-networks {
     text-align: center;
