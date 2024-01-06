@@ -154,7 +154,10 @@ ul {
 /* Footer */
 
 footer {
-    height: 80px;
+    height: 250px;
+    margin-top: 20px;
+    background-color: #020202;
+    padding: 10px
 }
 
 .social-networks {
@@ -164,7 +167,7 @@ footer {
 .social-networks i {
     font-size: 200%;
     padding: 3%;
-    color: #313131
+    color: auto;
 }
 
 .social-networks li {
