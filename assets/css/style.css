@@ -193,9 +193,10 @@ footer {
     color: #fdfcfc;
     background-color: rgba(60, 60, 60, 0.6);
     max-width: 400px;
-    position: 400px;
+    position: absolute;
     left: 10%;
-    padding: 30px
+    padding: 30px;
+    display: flex;
 }
 
 .contact-image {
