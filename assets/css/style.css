@@ -160,6 +160,13 @@ footer {
     padding: 10px
 }
 
+.text-block {
+  color: white;
+  margin-left: 30px;
+  display: flex;
+}
+
+/* social networks */
 .social-networks {
     text-align: center;
 }
