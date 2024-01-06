@@ -8,6 +8,18 @@
 
 }
 
+/* Header styles */
+header {
+    background-color: #020202;
+    padding: 20px
+}
+
+/* Logo styles */
+.logo {
+    max-width: 150px;
+
+}
+
 /* navigation links */
 
 body {
@@ -179,5 +191,4 @@ footer {
 
 /* Media queries */
 @media screen and (max-width: 1200px){
-
 }
