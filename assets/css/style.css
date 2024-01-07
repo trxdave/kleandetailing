@@ -164,13 +164,24 @@ footer {
   color: white;
   margin-left: 30px;
   display: flex;
+  float: inline-start;
+  position: absolute;
 }
 
 .google-map {
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
-  align-content: flex-end; 
+  float:inline-end;
+  padding: 10px 
+}
+
+.footer-logo {
+  float: left;
+  display: flex;  
+  max-width: 150px;
+  padding: 10px;
+
 }
 
 /* social networks */
@@ -181,7 +192,7 @@ footer {
 .social-networks i {
     font-size: 200%;
     padding: 3%;
-    color: auto;
+    
 }
 
 .social-networks li {
