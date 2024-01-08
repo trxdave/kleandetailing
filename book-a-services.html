@@ -30,7 +30,32 @@
 
         </nav>
     </header>
+ 
+<section>
     
+<h1>Add Appointment</h1>
+<form action="/submit-appointment" method="post">
+    <label for="title">Appointment Title:</label><br>
+    <input type="text" id="title" name="title"><br>
+
+    <label for="description">Appointment Description:</label><br>
+    <textarea id="description" name="description"></textarea><br>
+
+    <label for="location">Appointment Location:</label><br>
+    <input type="text" id="location" name="location"><br>
+
+    <label for="date">Appointment Date:</label><br>
+    <input type="date" id="date" name="date"><br>
+
+    <label for="time">Appointment Time:</label><br>
+    <input type="time" id="time" name="time"><br>
+
+    <label for="duration">Appointment Duration (minutes):</label><br>
+    <input type="number" id="duration" name="duration"><br>
+
+    <input type="submit" value="Submit">
+</form>
+</section>
         
     
     <footer>
