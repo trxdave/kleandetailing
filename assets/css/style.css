@@ -160,7 +160,53 @@ ul {
     border: 1px solid white;
     border-radius: 3px;
   }
+/* Book a Services */
+.header-bas {
+  text-align: center;
+  background-color: #a38a09;
+  color: white;
+  padding: 20px;
+}
 
+.services-bas {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px 0;
+}
+
+.service-bas {
+  border: 1px solid #ccc;
+  padding: 20px;
+  width: 30%;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.service-bas h2 {
+  margin-bottom: 10px;
+}
+
+.service-bas p {
+  text-align: justify;
+}
+
+.contact-bas {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.contact-bas a {
+  text-decoration: none;
+  color: #a38a09;
+  padding: 10px 20px;
+  border: 1px solid #a38a09;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+.contact-bas a:hover {
+  background-color: #4CAF50;
+  color: white;
+}
 /* Footer */
 
 footer {
