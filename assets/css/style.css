@@ -32,7 +32,7 @@ h1, h2 {
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
-
+    margin-top: 10px;
 }
 
 ul {
@@ -43,6 +43,7 @@ ul {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     padding-inline-start: 40px;
+    list-style-type: none;
 }
 
 .hero-image {
@@ -160,6 +161,13 @@ ul {
     border: 1px solid white;
     border-radius: 3px;
   }
+
+/* Our Work */
+.work-about-heading p {
+  text-align: center;
+  padding: 0 20px 0 20px;
+}
+    
 /* Book a Services */
 .header-bas {
   text-align: center;
