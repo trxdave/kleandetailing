@@ -215,6 +215,8 @@ ul {
   background-color: #4CAF50;
   color: white;
 }
+
+
 /* Footer */
 
 footer {
@@ -286,14 +288,11 @@ ul.social-networks {
 .contact-us {
     color: #fdfcfc;
     background-color: #313131e0;
-    left: 10%;
     padding: 30px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    flex-wrap: wrap;
     max-width: 400px;
     position: absolute;
+    left: 580px;
+    top: 580px;
 }
 .your_message {
   background: transparent;
@@ -313,6 +312,7 @@ ul.social-networks {
   background-color: #a38a09;
   color: black;
   display: block;
+  margin-left: 60px;
 }
 
 .contact-image {
