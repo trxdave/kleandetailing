@@ -167,6 +167,25 @@ ul {
   text-align: center;
   padding: 0 20px 0 20px;
 }
+
+.header-ow {
+  text-align: center;
+  background-color: #a38a09;
+  color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.our-work-about {
+  justify-content: center;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+}
+
+.our-work-image {
+  width: 300px;
+}
     
 /* Book a Services */
 .header-bas {
@@ -216,6 +235,13 @@ ul {
   color: white;
 }
 
+/* Contact Us */
+.header-cu {
+  text-align: center;
+  background-color: #a38a09;
+  color: white;
+  padding: 20px;
+}
 
 /* Footer */
 
@@ -291,7 +317,7 @@ ul.social-networks {
     padding: 30px;
     max-width: 400px;
     position: absolute;
-    left: 580px;
+    left: 750px;
     top: 580px;
 }
 .your_message {
