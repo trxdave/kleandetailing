@@ -1,4 +1,9 @@
 # kleandetailing
+I use hand drawing for layout Heading,body,section,footer.
+
+I use color space on website to pick out the color matching palette. 
+https://mycolor.space/?hex=%23A38A09&sub=1
+
 Navigation Bar:
 3 pages bar includes links to the logo, Home, Our Works, Book a Services, Contact Us
 Section will easy navigate from page to page across all devices
