@@ -187,14 +187,40 @@ ul {
   width: 300px;
 }
 
-.polish-paint-about p {
-  text-align: left;
+p.polish-paint-about {
+  text-align: center;
   padding: 20px
 }
 
-.headlight-about {
-  text-align: left;
+.img.shine-scratch {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%
+}
+
+p.headlight-about {
+  text-align: center;
   padding: 20px;
+}
+
+.img.headlight-before-after {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p.leather-chair {
+  padding: 20px;
+  text-align: center;
+}
+
+.img.leather-chair {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
     
 /* Book a Services */
