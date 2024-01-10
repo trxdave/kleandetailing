@@ -46,4 +46,4 @@ Foot section includes logo, address detailing, Navigation - Home, Our Works, Boo
 Contact Us:
 ![Alt text](assets/image/contact-us.jpg)
 First name, Email Address, Mobile Number and your message. Click Button Message Sent.
-
+Foot section includes logo, address detailing, Navigation - Home, Our Works, Book a Services and Contact Us. Social Media includes.
