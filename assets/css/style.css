@@ -285,10 +285,33 @@ p.leather-chair {
   padding: 20px;
 }
 
+.contact-us {
+  color: white;
+  background-color: #313131;
+  position: absolute;
+  display: inline-flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 5%;
+  max-width: 400px;
+}
+
+input.write-something {
+  margin-top: 20px;
+  border-radius: 2px;
+  padding: 15px 32px 15px 32px;
+  text-align: center;
+  font-size: 100%;
+  background-color: #a38a09;
+  color: black;
+  display: block;
+}
+
 /* Footer */
 
 footer {
-    height: 400px;
+    height: 300px;
     margin-top: 20px;
     background-color: #020202;
     padding: 10px
@@ -306,25 +329,25 @@ footer {
 .footer-logo {
   float: left;
   display: flex;  
-  max-width: 150px;
+  width: 150px;
   margin-left: 95px;
 }
 
-.footer-nav {
-  color: white;
-  font-weight: bold;
-  display: flex;
-  flex-direction: column;
-  align-items: stretch;
-  padding: 10px;
-  margin-left: 500px;
-  max-width: 800px;
-  text-decoration: none;
+article.mobile-email {
+  margin-left: 50px;
+  padding: 20px;
+}
+
+.location-address {
+  margin-left: 10px
 }
 
 /* social networks */
 .rounded-social-buttons {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
   }
   
   .rounded-social-buttons .social-button {
