@@ -5,7 +5,7 @@
     padding: 0;
     border: 0;
     text-align: center;
-
+    box-sizing: border-box;
 }
 
 /* Header styles */
@@ -127,11 +127,6 @@ ul {
 .description {
     margin-bottom: 20px;
 }
-
-  * {
-    box-sizing: border-box;
-    margin-top: 0px;
-  }
   
   /* Create four equal columns that floats next to each other */
   .column {
@@ -470,12 +465,13 @@ article.mobile-email {
 
 @media screen and (max-width: 992px) {
   .column {
-    flex: 50%
+    flex-wrap: wrap;
+    flex: 50%;
   }
 }
 
 @media screen and (max-width: 600px) {
-  .row {
+  .body {
     flex-direction: column;
   }
 }
