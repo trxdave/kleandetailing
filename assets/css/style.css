@@ -96,11 +96,14 @@ ul {
     background-color: #a38a09;
   }
 
-  input.button {
+  .button {
     border-radius: 10px;
+    text-decoration: none;
     padding: 15px 32px 15px 32px;
     background-color: #a38a09;
-    font-size: 100%
+    font-size: 100%;
+    color: black;
+    font-weight: bold;
     }
 
   .block {
@@ -137,6 +140,10 @@ ul {
     border-radius: 20px;
     margin-left: 5px;
     margin-right: 5px;
+    display: flex;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   
 
@@ -289,12 +296,9 @@ p.leather-chair {
   color: white;
   background-color: #313131;
   position: absolute;
-  display: inline-flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-left: 5%;
-  max-width: 400px;
+  top: 50%;
+  right: 40%;
+  padding: 40px;
 }
 
 input.write-something {
@@ -306,6 +310,8 @@ input.write-something {
   background-color: #a38a09;
   color: black;
   display: block;
+  margin-bottom: 20px;
+  margin-left: 60px;
 }
 
 /* Footer */
@@ -460,7 +466,7 @@ article.mobile-email {
 
 /* Media queries */
 @media screen and (max-width: 1200px){
-}
+}}
 
 @media screen and (max-width: 992px) {
   .column {
@@ -474,5 +480,7 @@ article.mobile-email {
   }
 }
 
-
+@media screen and (min-width: 768px)
+  #cover-button {
+  top: 50%
 }
