@@ -158,7 +158,7 @@ ul {
     background: transparent;
     color: white;
     width: 100%;
-    height: 25px;
+    height: 35px;
     margin: 5px 0 20px 0;
     border: 1px solid white;
     border-radius: 13px;
@@ -316,8 +316,8 @@ input.write-something {
 }
 
 /* Join Us */
-#join-us-form {
-  padding: 20px 10% 20px 10%;
+#join-our-form {
+  padding: 20px 5% 20px 5%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -325,11 +325,13 @@ input.write-something {
   opacity: 75%;
 }
 
-#join-us-form p {
+#join-our-form p {
   color: white;
-  font-size: 0.9rem;
+  font-size: 1.3rem;
   margin-bottom: 15px;
   font-weight: bold;
+  font-style: italic;
+  
 }
 
 .submit {
@@ -346,7 +348,7 @@ input#date-of-birth {
   background: transparent;
   color: white;
   width: 100%;
-  height: 25px;
+  height: 35px;
   margin: 5px 0 20px 0;
   border: 1px solid white;
   border-radius: 13px;
@@ -497,7 +499,7 @@ article.mobile-email {
 
 .contact-image {
     clear: left;
-    background: url(assets/image/contact-us.jpg);
+    background: url(assets/image/contact-us.png);
     background-size: cover;
     background-position: center;
     height: 900px;
@@ -529,5 +531,12 @@ article.mobile-email {
 @media screen and (max-width: 600px) {
   .body {
     flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .navbar a {
+    float: none;
+    width: 100%;
   }
 }
