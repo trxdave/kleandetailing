@@ -290,11 +290,16 @@ p.leather-chair {
 
 .contact-us {
   color: white;
-  background-color: #313131;
+  background-color: #272727;
   position: absolute;
   top: 50%;
   right: 40%;
-  padding: 40px;
+  padding: 20px 10% 20px 10%;
+  opacity: 75%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 input.write-something {
@@ -317,7 +322,9 @@ input.write-something {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  opacity: 75%;
 }
+
 #join-us-form p {
   color: white;
   font-size: 0.9rem;
