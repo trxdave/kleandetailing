@@ -161,7 +161,8 @@ ul {
     height: 25px;
     margin: 5px 0 20px 0;
     border: 1px solid white;
-    border-radius: 3px;
+    border-radius: 13px;
+    padding: 0 5px;
   }
 
 /* Our Work */
@@ -307,6 +308,42 @@ input.write-something {
   display: block;
   margin-bottom: 20px;
   margin-left: 60px;
+}
+
+/* Join Us */
+#join-us-form {
+  padding: 20px 10% 20px 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#join-us-form p {
+  color: white;
+  font-size: 0.9rem;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.submit {
+border-radius: 10px;
+    text-decoration: none;
+    padding: 15px 32px 15px 32px;
+    background-color: #a38a09;
+    font-size: 100%;
+    color: black;
+    font-weight: bold;
+  }
+
+input#date-of-birth {
+  background: transparent;
+  color: white;
+  width: 100%;
+  height: 25px;
+  margin: 5px 0 20px 0;
+  border: 1px solid white;
+  border-radius: 13px;
+  padding: 0 5px;
 }
 
 /* Footer */
@@ -459,6 +496,18 @@ article.mobile-email {
     height: 900px;
 }
 
+#main-doc {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  height: 00%;
+  overflow-y: scroll;
+}
+
 /* Media queries */
 @media screen and (max-width: 1200px){
 }}
@@ -474,9 +523,4 @@ article.mobile-email {
   .body {
     flex-direction: column;
   }
-}
-
-@media screen and (min-width: 768px)
-  #cover-button {
-  top: 50%
 }
