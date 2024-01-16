@@ -133,21 +133,20 @@ li {
   
   /* Create four equal columns that floats next to each other */
   .column {
-    flex: 50%;
-    padding: 0%;
+    padding: 10px;
     border-radius: 20px;
     margin-left: 5px;
     margin-right: 5px;
     display: flex;
     align-content: flex-start;
     flex-wrap: wrap;
-    justify-content: center;
+    flex-direction: column;
   }
   
 
   .row {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
   }
   
   /* Clear floats after the columns */
@@ -526,8 +525,9 @@ article.mobile-email {
 
 @media screen and (max-width: 600px) {
   .column {
-    display: block;
-    width: 100%
+    display: flex;
+    flex-flow: row wrap;
+
   }
 }
 
