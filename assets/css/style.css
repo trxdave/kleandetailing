@@ -242,7 +242,7 @@ p.leather-chair {
 .services-bas {
   display: flex;
   justify-content: space-around;
-  margin: 50px 0;
+  margin: 20px 0;
 }
 
 .service-bas {
@@ -251,7 +251,11 @@ p.leather-chair {
   width: 30%;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
   margin-right: 10px;
-  margin-left: 10px
+  margin-left: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start;
 }
 
 .service-bas h2 {
@@ -529,7 +533,7 @@ article.mobile-email {
 @media screen and (max-width: 1200px){
 }}
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .column {
     display: flex;
     flex-flow: row wrap;
@@ -547,5 +551,12 @@ article.mobile-email {
   .navbar a {
     float: none;
     width: 100%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  #service-bas {
+    flex-flow: row wrap;
+    column-width: auto;
   }
 }
