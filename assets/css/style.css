@@ -189,6 +189,7 @@ li {
   margin-left: 50px;
   margin-right: 50px;
   margin-bottom: 20px;
+  font-size: large;
 }
 
 .our-work-image {
@@ -197,7 +198,8 @@ li {
 
 p.polish-paint-about {
   text-align: center;
-  padding: 20px
+  padding: 20px;
+  font-size: large;
 }
 
 .img.shine-scratch {
@@ -210,6 +212,7 @@ p.polish-paint-about {
 p.headlight-about {
   text-align: center;
   padding: 20px;
+  font-size: large;
 }
 
 .img.headlight-before-after {
@@ -222,6 +225,7 @@ p.headlight-about {
 p.leather-chair {
   padding: 20px;
   text-align: center;
+  font-size: large;
 }
 
 .img.leather-chair {
