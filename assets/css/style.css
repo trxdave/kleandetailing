@@ -138,9 +138,10 @@ li {
     margin-left: 5px;
     margin-right: 5px;
     display: flex;
-    align-content: flex-start;
+    align-content: center;
     flex-wrap: wrap;
     flex-direction: column;
+    flex: 1px;
   }
   
 
