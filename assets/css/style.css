@@ -47,6 +47,7 @@ ul {
 
 li {
   padding-bottom: 18px;
+  font-size: 18px;
 }
 
 .hero-image {
@@ -129,6 +130,7 @@ li {
 
 .description {
     margin-bottom: 20px;
+    font-size: large;
 }
   
   /* Create four equal columns that floats next to each other */
@@ -381,6 +383,8 @@ footer {
   display: flex;  
   width: 150px;
   margin-left: 95px;
+  height: 110px;
+  position: absolute;
 }
 
 article.mobile-email {
@@ -399,6 +403,7 @@ article.mobile-email {
   flex-wrap: wrap;
   justify-content: space-evenly;
   margin-top: 100px;
+  margin-left: 300px;
   }
   
   .rounded-social-buttons .social-button {
