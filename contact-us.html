@@ -48,20 +48,23 @@
     <img src="assets/image/contact-us.png" alt="contact-image" class="contact-image" style="width: 100%; height: 100%;">
     <div class="contact-text">
     
-</div>
-    <section class="form-section">
-        <form method="POST" action="https://docs.google.com/spreadsheets/d/1DjFyaM6K4h-Ab-nBPC3-zeiRwukvK_fiiGcuXwRSxmE/edit#gid=0" class="contact-us">
-            <h2>Contact Us</h2>
-            <label for="fname">First Name</label>
-            <input class="text-input" id="fname" name="first_name" type="text" required><br>
-            <label for="email">Email Address</label><br>
-            <input class="text-input" type="email" id="email" name="email_address" required><br>
-            <label for="your_message">Your Message</label>
-            <textarea id="your_message" name="your_message" placeholder="Write something.." style="height:200px"></textarea>
+</div>      
+            <section class="form-section">
+                <form method="POST" action="https://docs.google.com/spreadsheets/d/1DjFyaM6K4h-Ab-nBPC3-zeiRwukvK_fiiGcuXwRSxmE/edit#gid=0" class="contact-us">
+                    <h2>Contact Us</h2>
 
-    <input class="write-something" type="submit" value="Message Sent">
-        </form>
-    </section>
+                    <label for="fname">First Name</label>
+                    <input class="text-input" id="fname" name="first_name" type="text" required><br>
+                    <label for="book-a-services">Choose time for your appointment.</label><br>
+                    <input type="datetime-local" id="book-a-services" name="book-a-services" value="2024-01-17T09:00" min="2024-01-17T0:00" max="2030-12-31T0:00"/><br>
+                    <label for="email">Email Address</label><br>
+                    <input class="text-input" type="email" id="email" name="email_address" required><br>
+                    <label for="mobile">Mobile Number</label><br>
+                    <input class="text-input" type="mobile" id="mobile" name="mobile" required><br>
+
+            <input class="submit" type="submit" value="submit">
+                </form>
+            </section>
     
 
     

@@ -103,15 +103,22 @@
 
         </div>
 
-        <div class="booking">
-            <h1>Booking Give a call or email</h1><br>
-            
-        </div>
+        <section class="form-section-bas">
+            <form method="POST" action="https://docs.google.com/spreadsheets/d/1DjFyaM6K4h-Ab-nBPC3-zeiRwukvK_fiiGcuXwRSxmE/edit#gid=0" class="book-a-services">
 
-    <div class="contact-bas">
-        <a href="mailto:daveguy28@gmail.com">Contact Us</a>
-    </div>
-</section>
+                <h2>Book a Services</h2><br>
+                <label for="fname">Your Name</label>
+                <input class="text-input-bas" id="fname" name="first_name" type="text" required><br>
+                <label for="book-a-services">Choose time for your appointment.</label><br>
+                <input type="datetime-local" id="book-a-services" name="book-a-services" value="2024-01-17T09:00" min="2024-01-17T0:00" max="2030-12-31T0:00"/><br>
+                <label for="email">Email Address</label><br>
+                <input class="text-input-bas" type="email" id="email" name="email_address" required><br>
+                <label for="mobile">Mobile Number</label><br>
+                <input class="text-input-bas" type="mobile" id="mobile" name="mobile" required><br>
+
+        <div class="book-form" type="submit" value="submit" href="mailto:daveguy28@gmail.com">Confirm</a>
+            </form>
+        </section>
         
     
 <footer>
