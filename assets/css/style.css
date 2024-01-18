@@ -130,6 +130,7 @@ li {
 .description {
     margin-bottom: 20px;
     font-size: large;
+    padding: 10px;
 }
   
   /* Create four equal columns that floats next to each other */
@@ -578,7 +579,7 @@ article.mobile-email {
   .column {
     display: flex;
     flex-flow: row wrap;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     align-content: flex-start;
     justify-content: center;
     align-items: center;
