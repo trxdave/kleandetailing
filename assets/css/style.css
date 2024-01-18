@@ -584,7 +584,7 @@ article.mobile-email {
     align-items: center;
     margin-top: 10px;
   }
-
+/* Our Work */
   .shine-scratch {
     width: 80%;
   }
@@ -596,6 +596,30 @@ article.mobile-email {
   .leather-chair {
     width: 80%;
   }
+
+/* Membership */
+.contact-us {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    top: 35%;
+    right: 7%;
+} 
+
+/* Book a Services */
+.service-bas {
+  margin-bottom: 20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.book-a-services {
+  margin-left: auto;
+  padding-bottom: 20px;
+  margin-right: auto;
+}
 }
 
 /* Media queries Tablets and larger screen */
