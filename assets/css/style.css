@@ -10,7 +10,7 @@
 /* Header styles */
 header {
     background-color: #020202;
-    padding: 20px
+    padding: 20px;
 }
 
 /* Logo styles */
@@ -311,7 +311,8 @@ p.leather-chair {
   flex-direction: column;
   flex-wrap: wrap;
   width: 300px;
-  margin-left: 32%;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 20px;
 }
 
@@ -412,7 +413,7 @@ footer {
     height: 330px;
     margin-top: 20px;
     background-color: #020202;
-    padding: 10px
+    padding: 10px;
 }
 
 .text-block {
@@ -439,7 +440,7 @@ article.mobile-email {
 }
 
 .location-address {
-  margin-left: 10px
+  margin-left: 10px;
 }
 
 /* social networks */
