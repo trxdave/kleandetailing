@@ -15,7 +15,7 @@ header {
 
 /* Logo styles */
 .logo {
-    max-width: 150px;
+    max-width: 250px;
 
 }
 
@@ -445,7 +445,7 @@ input#date-of-birth {
 /* Footer */
 
 footer {
-    height: 330px;
+    height: 370px;
     margin-top: 20px;
     background-color: #020202;
     padding: 10px;
@@ -463,9 +463,9 @@ footer {
 .footer-logo {
   float: left;
   display: flex;  
-  width: 150px;
+  width: 250px;
   margin-left: 95px;
-  height: 110px;
+  height: 150px;
   position: absolute;
 }
 
@@ -475,17 +475,16 @@ article.mobile-email {
 }
 
 .location-address {
-  margin-left: 10px;
+  margin-left: 50px;
 }
 
 /* social networks */
 .rounded-social-buttons {
   text-align: center;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: space-evenly;
-  margin-top: 100px;
-  margin-left: 300px;
+  margin-top: 300px;
   }
   
   .rounded-social-buttons .social-button {
@@ -668,6 +667,11 @@ img.join-us-image {
 img.contact-image {
   width: 100%;
   height: 700px;
+}
+
+.contact-us {
+  top: 45%;
+  right: 0.15%;
 }
 }
 
