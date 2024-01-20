@@ -109,7 +109,6 @@ li {
     text-decoration: none;
     padding: 15px 32px 15px 32px;
     background-color: #a38a09;
-    font-size: 100%;
     color: black;
     font-weight: bold;
     }
@@ -286,6 +285,7 @@ p.leather-chair {
     font-size: 100%;
     color: black;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 .service-bas h2 {
