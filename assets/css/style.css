@@ -353,7 +353,7 @@ img.contact-image {
   background-color: #272727;
   position: absolute;
   top: 50%;
-  right: 40%;
+  right: 35%;
   padding: 10px 5% 10px 5%;
   opacity: 90%;
   display: flex;
@@ -376,14 +376,34 @@ input.write-something {
   margin-left: 60px;
 }
 
-/* Join Us */
+/* Join Our Membership */
+img.join-us-image {
+  width: 100%;
+  height: 100%;
+}
+
+.join-us {
+    color: white;
+    background-color: #272727;
+    position: absolute;
+    top: 50%;
+    right: 30%;
+    padding: 10px 5% 10px 5%;
+    opacity: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
 #join-our-form {
   padding: 20px 5% 20px 5%;
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  opacity: 75%;
+  opacity: 90%;
 }
 
 #join-our-form p {
@@ -403,6 +423,7 @@ border-radius: 10px;
     font-size: 100%;
     color: black;
     font-weight: bold;
+    text-transform: uppercase;
   }
 
 input#date-of-birth {
@@ -610,14 +631,19 @@ article.mobile-email {
   }
 
 /* Membership */
-.contact-us {
+.join-us {
     display: flex;
     align-items: stretch;
     flex-direction: column;
     flex-wrap: nowrap;
-    top: 35%;
-    right: 0.2%;
-} 
+    top: 45%;
+    right: 0.1%;
+}
+
+img.join-us-image {
+  width: 100%;
+  height: 800px;
+}
 
 /* Book a Services */
 .service-bas {
