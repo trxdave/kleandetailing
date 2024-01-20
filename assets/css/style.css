@@ -134,6 +134,7 @@ li {
 }
   
   /* Create four equal columns that floats next to each other */
+  
   .column {
     padding: 10px;
     border-radius: 20px;
@@ -153,6 +154,7 @@ li {
   }
   
   /* Clear floats after the columns */
+  
   .row:after {
     content: "";
     display: table;
@@ -171,6 +173,7 @@ li {
   }
 
 /* Our Work */
+
 .work-about-heading p {
   text-align: center;
   padding: 0 20px 0 20px;
@@ -243,6 +246,7 @@ p.leather-chair {
 }
     
 /* Book a Services */
+
 .header-bas {
   text-align: center;
   background-color: #a38a09;
@@ -339,6 +343,11 @@ p.leather-chair {
   padding: 20px;
 }
 
+img.contact-image {
+  width: 100%;
+  height: 100%;
+}
+
 .contact-us {
   color: white;
   background-color: #272727;
@@ -346,7 +355,7 @@ p.leather-chair {
   top: 50%;
   right: 40%;
   padding: 10px 5% 10px 5%;
-  opacity: 75%;
+  opacity: 90%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -622,6 +631,12 @@ article.mobile-email {
   margin-left: auto;
   padding-bottom: 20px;
   margin-right: auto;
+}
+
+/* Contact Us */
+img.contact-image {
+  width: 100%;
+  height: 700px;
 }
 }
 
