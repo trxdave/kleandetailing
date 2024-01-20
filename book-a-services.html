@@ -20,11 +20,11 @@
 
         <nav>
             <div class="navbar">
-                <a href="index.html">Home</a>
-                <a href="our-work.html">Our Work</a>
-                <a href="membership.html">Membership</a>
-                <a href="book-a-services.html">Book a Services</a>
-                <a href="contact-us.html">Contact Us</a>
+                <span><a class="active" href="index.html">Home</a></span>
+                <span><a href="our-work.html">Our Work</a></span>
+                <span><a href="membership.html">Membership</a></span>
+                <span><a href="book-a-services.html">Book a Services</a></span>
+                <span><a href="contact-us.html">Contact Us</a></span>
                 
               
                   </div>
@@ -110,8 +110,8 @@
         <!--Book a Services Form-->
 
         <section class="form-section-bas">
-            <form method="POST" action="https://docs.google.com/spreadsheets/d/1DjFyaM6K4h-Ab-nBPC3-zeiRwukvK_fiiGcuXwRSxmE/edit#gid=0" class="book-a-services">
-
+                <form method="POST" class="book-a-services" action="https://formdump.codeinstitute.net">
+                
                 <h2>Book a Services</h2><br>
                 <label for="fname">Your Name</label>
                 <input class="text-input" id="fname" name="first_name" type="text" required><br>
@@ -119,10 +119,10 @@
                 <input type="datetime-local" id="book-a-services" name="book-a-services" value="2024-01-17T09:00"><br>
                 <label for="email">Email Address</label><br>
                 <input class="text-input" type="email" id="email" name="email_address" required><br>
-                <label for="phone">Mobile Number</label><br>
-                <input class="text-input" type="tel" id="mobile" name="mobile" pattern="[0-9]" required><br>
+                <label for="phone">Enter your phone number</label><br>
+                <input class="text-input" type="tel" id="mobile" name="mobile" required><br>
 
-        <div class="book-form" type="submit" value="submit" required>Confirm</a>
+        <input class="book-form" type="submit" value="confirm">
 
             </form>
         </section>
