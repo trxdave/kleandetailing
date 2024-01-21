@@ -73,7 +73,11 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
    * The navigation bar will click on and open the pages.
 
  * Footer
- 
+ ![Alt text](README/Image/footer.png)
+
+    * The footer includes a logo, location address and social media channels.
+
+
 
 
 
