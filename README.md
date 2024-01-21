@@ -22,9 +22,19 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
     5. [Form] (#form)
     6. [Footer] (#footer)
 
-3. 
+3. [Testing]
+    1. [Validation] (#validation)
+    2. [Accessibility] (#accessibility)
+    3. [Tools] (#tools)
+    4. [Manual-Testing] (#manual-testing)
 
+4. [Deployment] (#deployment)
+    1. [GitHub] (#github)
 
+5. [Credits] (#credits)
+    1. [Media] (#media)
+    2. [Code] (#code)
+    
 
 I use hand drawing for layout Heading,body,section,footer.
 
