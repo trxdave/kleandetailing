@@ -1,4 +1,4 @@
-# kleandetailing
+# Klean Detailing
 
 ![Klean Detailing mockup images](am-i-responsive/am-i-responsive.png)
 
@@ -6,35 +6,34 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 ## Table of Contents
 
-1. [UX] (#UX)
-    1. [Project] (#project-goals)
-    2. [Customer] (#customer-stories)
-    3. [Color] (#color)
-    4. [Text] (#type-of-text)
-    5. [Logo] (#logo)
-    6. [Wireframes] (#wireframes)
+1. # UX 
+    1. # Project
+    2. # Color
+    3. # Text
+    4. # Logo
+    5. # Wireframes
 
-2. [Features]
-    1. [General] (#general)
-    2. [Menu] (#menu)
-    3. [Column] (#column)
-    4. [Page] (#pages)
-    5. [Form] (#form)
-    6. [Footer] (#footer)
+2. # Features
+    1. # General
+    2. # Menu
+    3. # Column
+    4. # Page
+    5. # Form
+    6. # Footer
 
-3. [Testing]
-    1. [Validation] (#validation)
-    2. [Accessibility] (#accessibility)
-    3. [Tools] (#tools)
-    4. [Manual-Testing] (#manual-testing)
+3. # Testing
+    1. # Validation
+    2. # Accessibility
+    3. # Tools
+    4. # Manual-Testing
 
-4. [Deployment] (#deployment)
-    1. [GitHub] (#github)
+4. # Deployment
+    1. # GitHub
 
-5. [Credits] (#credits)
-    1. [Media] (#media)
-    2. [Code] (#code)
-    
+5. # Credits
+    1. # Media
+    2. # Code
+
 
 I use hand drawing for layout Heading,body,section,footer.
 
