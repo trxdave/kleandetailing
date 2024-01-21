@@ -60,17 +60,17 @@ Foot section includes logo, address detailing, Navigation - Home, Our Works, Boo
 # Validator:
 
 ## Index:
-![Alt text](assets/image/validator-index.png)
+![Alt text](validator/validator-index.png)
 
 ## Our Work:
-![Alt text](assets/image/validator-our-work.png)
+![Alt text](validator/validator-our-work.png)
 
 ## Join our membership:
-![Alt text](assets/image/validator-join-our-membership.png)
+![Alt text](validator/validator-join-our-membership.png)
 
 ## Book a Services:
-![Alt text](assets/image/validator-book-a-services.png)
+![Alt text](validator/validator-book-a-services.png)
 
 ## Contact Us:
-![Alt text](assets/image/validator-contact-us.png)
+![Alt text](validator/validator-contact-us.png)
 
