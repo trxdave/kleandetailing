@@ -8,31 +8,31 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 1. # UX 
     1. # Project
-    2. # Color
-    3. # Text
-    4. # Logo
-    5. # Wireframes
+    2. ## Color
+    3. ## Text
+    4. ## Logo
+    5. ## Wireframes
 
 2. # Features
-    1. # General
-    2. # Menu
-    3. # Column
-    4. # Page
-    5. # Form
-    6. # Footer
+    1. ## General
+    2. ## Menu
+    3. ## Column
+    4. ## Page
+    5. ## Form
+    6. ## Footer
 
 3. # Testing
-    1. # Validation
-    2. # Accessibility
-    3. # Tools
-    4. # Manual-Testing
+    1. ## Validation
+    2. ## Accessibility
+    3. ## Tools
+    4. ## Manual-Testing
 
 4. # Deployment
-    1. # GitHub
+    1. ## GitHub
 
 5. # Credits
-    1. # Media
-    2. # Code
+    1. ## Media
+    2. ## Code
 
 
 I use hand drawing for layout Heading,body,section,footer.
