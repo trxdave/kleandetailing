@@ -1,4 +1,31 @@
 # kleandetailing
+
+![Klean Detailing mockup images](am-i-responsive/am-i-responsive.png)
+
+Visit the deployed website (https://trxdave.github.io/kleandetailing/)
+
+## Table of Contents
+
+1. [UX] (#UX)
+    1. [Project] (#project-goals)
+    2. [Customer] (#customer-stories)
+    3. [Color] (#color)
+    4. [Text] (#type-of-text)
+    5. [Logo] (#logo)
+    6. [Wireframes] (#wireframes)
+
+2. [Features]
+    1. [General] (#general)
+    2. [Menu] (#menu)
+    3. [Column] (#column)
+    4. [Page] (#pages)
+    5. [Form] (#form)
+    6. [Footer] (#footer)
+
+3. 
+
+
+
 I use hand drawing for layout Heading,body,section,footer.
 
 I use color space on website to pick out the color matching palette. 
