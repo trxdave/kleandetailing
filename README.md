@@ -7,7 +7,7 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 ## Table of Contents
 
 1. # UX 
-    1. # Project
+    1. ## Project
     2. ## Color
     3. ## Text
     4. ## Logo
@@ -34,11 +34,48 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
     1. ## Media
     2. ## Code
 
+## 1. UX
 
-I use hand drawing for layout Heading,body,section,footer.
+### Project
 
-I use color space on website to pick out the color matching palette. 
-https://mycolor.space/?hex=%23A38A09&sub=1
+* Show the price of different type of Valeting.
+
+* Booking a Services online
+
+* Optimize the website for search engines to increase visibility and attract customers.
+
+### Color
+
+I use color space on website to pick out the color codeing matching palette on the logo. https://mycolor.space/?hex=%23A38A09&sub=1
+
+The colors used in the site are black (#020202), Gold (#A38A09), White (#FEFEFC) and black (#272727).
+
+### Text
+
+I use google font website (https://fonts.google.com/)
+
+Poppins are used for all sites but the logo are different text used by photoshop text and designed.
+
+### Wireframes
+
+Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of layout heading, body, div, column, section, footer.
+
+## 2. Features
+
+### General
+
+ * Responsive design across all device sizes.
+
+ * Header with Nav
+ ![Alt text](README/Image/header.png)
+
+   * The header contains the business logo top of the screen.
+   * The navigation bar will click on and open the pages.
+
+ * Footer
+ 
+
+
 
 ## Navigation Bar:
 3 pages bar includes links to the logo, Home, Our Works, Book a Services, Contact Us
