@@ -249,5 +249,4 @@ Pexels (https://www.pexels.com/photo/man-washing-his-car-14231676/)
 * W3Schools - I used this regularly. (https://www.w3schools.com/)
 * Flexbox Froggy - Got all level 24 of 24. (https://flexboxfroggy.com/)
 * ColorZilla - I use this colour coding. (https://www.colorzilla.com/chrome/)
-
-
+* Font awesome - I used social media for icons with color (https://fontawesome.com/)
