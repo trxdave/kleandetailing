@@ -42,10 +42,9 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
     2. ### Code
 
 
-
 ## 1. UX
 
-### Project
+### Project<a name="#project"></a>
 
 * Show the price of different type of Valeting.
 
