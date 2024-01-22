@@ -6,40 +6,40 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 ## Table of Contents
 
-1. # UX 
-    1. ## Project
-    2. ## Color
-    3. ## Text
-    4. ## Logo
-    5. ## Wireframes
+1. ## UX 
+    1. ### [Project](#project)
+    2. ### [Color](#color)
+    3. ### [Text](#text)
+    4. ### [Logo](#logo)
+    5. ### [Wireframes](#wireframes)
 
-2. # Features
-    1. ## General
-    2. ## Header with Nav
-    3. ## Footer
-    4. ## Landing Page
-    5. ## Inform Section
-    6. ## Column Section
-    7. ## Our Work
-    8. ## Polishing/Paint Correction
-    9. ## Headlight Restoration
-   10. ## Leather Restoration
-   11. ## Join Our Membership
-   12. ## Book a Services
-   13. ## Contact Us
+2. ## Features
+    1. ### General
+    2. ### Header with Nav
+    3. ### Footer
+    4. ### Landing Page
+    5. ### Inform Section
+    6. ### Column Section
+    7. ### Our Work
+    8. ### Polishing/Paint Correction
+    9. ### Headlight Restoration
+   10. ### Leather Restoration
+   11. ### Join Our Membership
+   12. ### Book a Services
+   13. ### Contact Us
 
-3. # Testing
-    1. ## Validator
-    2. ## Am I Responsive
-    3. ## Accessibility
-    4. ## W3C CSS Validator
+3. ## Testing
+    1. ### Validator
+    2. ### Am I Responsive
+    3. ### Accessibility
+    4. ### W3C CSS Validator
 
-4. # Deployment
-    1. ## GitHub
+4. ## Deployment
+    1. ### GitHub
 
-5. # Credits
-    1. ## Media
-    2. ## Code
+5. ## Credits
+    1. ### Media
+    2. ### Code
 
 
 
@@ -68,6 +68,10 @@ The colors used in the site are black (#020202), Gold (#A38A09), White (#FEFEFC)
 I use google font website (https://fonts.google.com/)
 
 Poppins are used for all sites but the logo are different text used by Photoshop text and designed by me in 2022.
+
+### Logo
+
+I designed the logo back in 2022. (assets/image/logo.webp)
 
 ### Wireframes
 
@@ -221,13 +225,17 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 ### Media
 
-* Logo: Designed by me in 2022![Alt text](assets/image/logo.webp)
+* Logo: Designed by me in 2022
+
+![Alt text](assets/image/logo.webp)
+
 * Hero image: Car wash by Luke Miller
+
 * Pexels (https://www.pexels.com/photo/close-up-shot-of-a-car-wheel-during-car-wash-14231678/)
     
 * Polishing/Paint Correction, Headlight Restoration, Leather Restoration images
 
-Instagram (https://www.instagram.com/kleandetailing2022/)
+Instagram image (https://www.instagram.com/kleandetailing2022/)
 
 * Join Out Membership: Image by Luke Miller
 
