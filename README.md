@@ -1,6 +1,6 @@
 # Klean Detailing
 
-![Klean Detailing mockup images](am-i-responsive/am-i-responsive.png)
+![Klean Detailing mockup images](readme-files/am-i-responsive/am-i-responsive.png)
 
 Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
@@ -15,17 +15,24 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 2. # Features
     1. ## General
-    2. ## Menu
-    3. ## Column
-    4. ## Page
-    5. ## Form
-    6. ## Footer
+    2. ## Header with Nav
+    3. ## Footer
+    4. ## Landing Page
+    5. ## Inform Section
+    6. ## Column Section
+    7. ## Our Work
+    8. ## Polishing/Paint Correction
+    9. ## Headlight Restoration
+   10. ## Leather Restoration
+   11. ## Join Our Membership
+   12. ## Book a Services
+   13. ## Contact Us
 
 3. # Testing
-    1. ## Validation
-    2. ## Accessibility
-    3. ## Tools
-    4. ## Manual-Testing
+    1. ## Validator
+    2. ## Am I Responsive
+    3. ## Accessibility
+    4. ## W3C CSS Validator
 
 4. # Deployment
     1. ## GitHub
@@ -40,7 +47,11 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 * Show the price of different type of Valeting.
 
-* Booking a Services online
+* Booking a Services online.
+
+* Contact Us.
+
+* Show what our work job doing.
 
 * Optimize the website for search engines to increase visibility and attract customers.
 
@@ -54,7 +65,7 @@ The colors used in the site are black (#020202), Gold (#A38A09), White (#FEFEFC)
 
 I use google font website (https://fonts.google.com/)
 
-Poppins are used for all sites but the logo are different text used by photoshop text and designed.
+Poppins are used for all sites but the logo are different text used by Photoshop text and designed by me in 2022.
 
 ### Wireframes
 
@@ -64,92 +75,160 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 ### General
 
- * Responsive design across all device sizes.
 
- * Header with Nav
- ![Alt text](README/Image/header.png)
+### Header with Navigation Bar
 
-   * The header contains the business logo top of the screen.
-   * The navigation bar will click on and open the pages.
+    * The header contains the business logo top of the screen.
+    * 5 pages bar includes links to the Home, Our Works, Membership, Book a  Services, Contact Us. The section will easily navigate from page to page across all devices.
 
- * Footer
- ![Alt text](README/Image/footer.png)
+ ![Alt text](readme-files/Image/header.png)
+
+   
+### Footer
 
     * The footer includes a logo, location address and social media channels.
 
+ ![Alt text](readme-files/Image/footer.png)
 
 
+### Landing Page
+
+    * Hero Image is designed to attract the customer's attention with a car wash.
+
+ ![Alt text](readme-files/Image/landing-page.png)
 
 
-## Navigation Bar:
-3 pages bar includes links to the logo, Home, Our Works, Book a Services, Contact Us
-Section will easy navigate from page to page across all devices
+### Info Section
 
-## index Page Image:
-Photograph with overlay user able to see get in touch Today.
-![wash](https://github.com/trxdave/kleandetailing/assets/5557850/8b7c7078-5e2b-41b7-80f1-a74e685f75ff)
+    * Information car wash, valeting and detailing.
 
-## Home Decription:
-Car wash, valeting, and detailing services play crucial roles in maintaining a vehicle's appearance. Car washes focus on exterior cleaning,
-valeting involves a more comprehensive interior and exterior cleaning, while detailing delves into meticulous cleaning, restoration, and protection,
-often including paint correction and fine detailing. Each service caters to different customer preferences and vehicle care needs.
+ ![Alt text](readme-files/Image/info-section.png)
+    
 
-## 4 Column: 
-Show Bronze Valet, Silver Valet, Gold Valet and Platinum Valet with pricing and what item on the list.
+### Column Section
 
-## Footer: 
-Footer section includes address detailing, Navigation - Home, Our Works, and Contact Us.  Social media includes.
+    * We are allowing the customer to read what the business has to offer.
+    * Show Bronze Valet, Silver Valet, Gold Valet and Platinum Valet with pricing and what item on the list.
 
-## Our Work Decription:
-Klean detailing involves the thorough cleaning and restoration of a vehicle, both inside and out. Car detailers use various cleaning products, tools, and techniques to enhance a vehicle's appearance and condition. Their services range from basic washes to intensive cleaning jobs. Detailers clean automotive interiors, addressing aspects like upholstery, dashboard, and windows, as well as exteriors, focusing on paintwork, wheels, and other exterior components. They may also apply protective measures like waxing and sealing on the vehicle's exterior to maintain its shine and protect it from environmental elements. Klean detailing goes beyond a standard car wash, offering more personalized and comprehensive cleaning packages. Detailers pay attention to every detail, ensuring the vehicle looks as close to new as possible.
+ ![Alt text](readme-files/Image/column.png)
+    
 
-![Alt text](assets/image/shine-scratch.png)
-## Polishing: 
-Polishing in car detailing is a process that involves the use of specialized compounds and abrasive pads to remove minor imperfections from a vehicle's paint surface. It aims to restore and enhance the paint's gloss by eliminating swirl marks, light scratches, and oxidation. The technique results in a smoother and shinier finish.
+### Our Work
 
-## Paint Correction: 
-Paint correction is a more advanced and comprehensive process focused on restoring the integrity of a vehicle's paintwork. It addresses moderate to severe imperfections such as deeper scratches, heavy swirl marks, and other defects. This multi-stage process typically uses various grades of abrasive compounds and polishing techniques to achieve a flawless, defect-free finish.
+    * We are allowing the customer to read what involves cleaning and restoration of a vehicle, both inside and out.
 
-Both polishing and paint correction contribute to enhancing the aesthetic appearance of a vehicle's paint, providing a more vibrant and polished look. These processes are often part of professional car detailing services.
+ ![Alt text](readme-files/Image/our-work.png)
+    
 
-![Alt text](assets/image/headlight-before-after.png)
-## Headlight Restoration:
-Headlight restoration is a process designed to renew and enhance the clarity of vehicle headlights, typically made of plastic. Over time, exposure to environmental factors like UV rays, road debris, and harsh weather conditions can cause headlights to become cloudy, yellowed, or hazy. The restoration process involves various techniques and products to eliminate this deterioration, improving both the aesthetic appearance of the headlights and the safety of nighttime driving.
+### Polishing/Paint Correction
 
-![Alt text](assets/image/leather-chair.png)
-## Leather Restoration:
-Leather restoration in car wash detailing refers to the process of rejuvenating and enhancing the condition of a vehicle's leather interior. This specialized service aims to address various issues that leather surfaces may face over time, including wear, fading, stains, and cracking. Car detailing professionals use specific techniques and products designed for leather care to restore the leather to its original or near-original state.
+    * We are allowing the customer to read what involves polishing/paint correction.
 
-## Footer: 
-Footer section includes logo, address detailing, Navigation - Home, Our Works, and Contact Us.  Social media includes.
+ ![Alt text](readme-files/Image/polishing-paint-correction.png)
+    
 
-# Book a Services:
-List of item Bronze, Silver, Gold and Platinum.
-Extra of items.
-Calendar to add in for available appointments and Click a button submit.
-Foot section includes logo, address detailing, Navigation - Home, Our Works, Book a Services and Contact Us. Social Media includes.
+### Headlight Restoration
 
-## Contact Us Form:
-![Alt text](assets/image/contact-us.jpg)
-First name, Email Address, Mobile Number and your message. Click Button Message Sent.
-Foot section includes logo, address detailing, Navigation - Home, Our Works, Book a Services and Contact Us. Social Media includes.
+    * We are allowing the customer to read what involves headlight restoration.
 
-# Validator:
+ ![Alt text](readme-files/Image/headlight-restoration.png)
+    
+### Leather Restoration
 
-## Index:
-![Alt text](validator/validator-index.png)
+    * We are allowing the customer to read what involves leather restoration.
 
-## Our Work:
-![Alt text](validator/validator-our-work.png)
+ ![Alt text](readme-files/Image/leather-restoration.png)
+    
+### Join our Membership
+    * We are allowing the customer to join our membership for a year to get discounts all year round on products and services.
+ ![Alt text](readme-files/Image/join-our-membership.png)
+    
+### Book a Services
 
-## Join our membership:
-![Alt text](validator/validator-join-our-membership.png)
+    * We are allowing show the customer what valet involves and extra.
+ ![Alt text](readme-files/Image/book-a-services.png)
 
-## Book a Services:
-![Alt text](validator/validator-book-a-services.png)
+    * The form allows customer to book a services, book a reservation on a specific date. 
 
-## Contact Us:
-![Alt text](validator/validator-contact-us.png)
+ ![Alt text](readme-files/Image/book-form.png)
+    
+    * I did make a calendar but it is not working for me and no time for it that I need learn more about what date is available and what is not available. I change input instead of calendar.
 
-# Am I Responsive
-![Alt text](am-i-responsive/am-i-responsive.png)
+### Contact Us
+
+    * The form allows customers to contact us.
+ ![Alt text](readme-files/Image/contact-us.png)
+    
+
+## 3. Testing:
+
+### Code Validator:
+    * The W3C Markup Validator and W3C CSS Validator there were no syntax errors.
+
+### Index:
+![Alt text](readme-files/validator/validator-index.png)
+
+### Our Work:
+![Alt text](readme-files/validator/validator-our-work.png)
+
+### Join our membership:
+![Alt text](readme-files/validator/validator-join-our-membership.png)
+
+### Book a Services:
+![Alt text](readme-files/validator/validator-book-a-services.png)
+
+### Contact Us:
+![Alt text](readme-files/validator/validator-contact-us.png)
+
+## Am I Responsive:
+
+### Am I Responsive?
+    * Used to check responsiveness of the site pages across different devices. https://ui.dev/amiresponsive
+
+![Alt text](readme-files/am-i-responsive/am-i-responsive.png)
+    
+
+### Accessibility:
+    * Used Lighthouse in Chrome to confirm that the colours and fonts used and website are easy to read and accessible.
+
+![Alt text](readme-files/Image/Accessibility.png)
+
+### W3C CSS Validator
+
+    * The W3C CSS Validation there were no errors.
+
+![Alt text](readme-files/validator/w3c-css.png)
+
+## 4. Deployment:
+
+### GitHub
+
+    * This website was developed using Codeanywhere but there was problem and I have to change to GitHub.
+
+    (https://github.com/trxdave/kleandetailing)
+
+## 5. Credit:
+
+### Media
+
+    Logo: Designed by me in 2022 ![Alt text](assets/image/logo.webp)
+
+    Hero image: Car wash by Luke Miller
+    * Pexels (https://www.pexels.com/photo/close-up-shot-of-a-car-wheel-during-car-wash-14231678/)
+    
+    Polishing/Paint Correction, Headlight Restoration, Leather Restoration images
+    * Instagram (https://www.instagram.com/kleandetailing2022/)
+
+    Join Out Membership: Image by Luke Miller
+    * Pexels (https://www.pexels.com/photo/a-person-polishing-the-car-s-body-14231701/)
+
+    Contact Us: Image by Luke Miller
+    * Pexels (https://www.pexels.com/photo/man-washing-his-car-14231676/)
+
+### Code
+
+    * W3Schools - I used this regularly. (https://www.w3schools.com/)
+    * Flexbox Froggy - Got all level 24 of 24. (https://flexboxfroggy.com/)
+    * ColorZilla - I use this colour coding. (https://www.colorzilla.com/chrome/)
+    
+
