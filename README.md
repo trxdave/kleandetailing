@@ -7,11 +7,11 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 ## Table of Contents
 
 1. ## UX 
-    1. ### [Project](###-project)
-    2. ### [Color](#color)
-    3. ### [Text](#text)
-    4. ### [Logo](#logo)
-    5. ### [Wireframes](#wireframes)
+    1. ### Project
+    2. ### Color
+    3. ### Text
+    4. ### Logo
+    5. ### Wireframes
 
 2. ## Features
     1. ### General
