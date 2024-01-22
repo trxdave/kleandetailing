@@ -7,7 +7,7 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 ## Table of Contents
 
 1. ## UX 
-    1. ### [Project](#project)
+    1. ### [Project](###project)
     2. ### [Color](#color)
     3. ### [Text](#text)
     4. ### [Logo](#logo)
@@ -44,7 +44,7 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 ## 1. UX
 
-### Project<a name="#project"></a>
+### Project
 
 * Show the price of different type of Valeting.
 
