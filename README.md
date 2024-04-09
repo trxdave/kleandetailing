@@ -46,7 +46,7 @@ I designed the logo back in 2022. (assets/image/logo.webp)
 
 Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of layout heading, body, div, column, section, footer.
 
-## 2. Features
+## Features
 
 ### General
 
@@ -138,7 +138,7 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
  ![Alt text](documentation/Image/contact-us.png)
     
 
-## 3. Testing:
+## Testing:
 
 ### Code Validator:
 
@@ -165,9 +165,14 @@ I have used the recommended HTML W3C Validator (https://validator.w3.org) to val
 
 ### Accessibility:
 
-* Used Lighthouse in Chrome to confirm that the colours and fonts used and website are easy to read and accessible.
+I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
 
-![Alt text](documentation/Image/Accessibility.png)
+| Page | Mobile | Desktop | Notes |
+| --- | --- | --- | --- |
+| Home | ![screenshot](documentation/lighthouse/lighthouse-home-mobile.png) | ![screenshot](documentation/lighthouse/lighthouse-home-desktop.png) | Some minor warnings |
+| About | ![screenshot](documentation/lighthouse/lighthouse-about-mobile.png) | ![screenshot](documentation/lighthouse/lighthouse-about-desktop.png) | Some minor warnings |
+| Gallery | ![screenshot](documentation/lighthouse/lighthouse-gallery-mobile.png) | ![screenshot](documentation/lighthouse/lighthouse-gallery-desktop.png) | Slow response time due to large images |
+| x | x | x | repeat for any other tested pages/sizes |
 
 ### W3C CSS Validator
 
@@ -177,7 +182,22 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | --- | --- | --- | --- |
 | assets | style.css | ![screenshot](documentation/validator/w3c-css.png) | There were no errors.
 
-## 4. Deployment:
+### Responsiveness
+
+I've tested my deployed project on multiple devices to check for responsiveness issues.
+
+| Device | Home | About | Contact | etc | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Mobile (DevTools) | ![screenshot](documentation/responsiveness/responsive-mobile-home.png) | ![screenshot](documentation/responsiveness/responsive-mobile-about.png) | ![screenshot](documentation/responsiveness/responsive-mobile-contact.png) | ![screenshot](documentation/responsiveness/responsive-mobile-etc.png) | Works as expected |
+| Tablet (DevTools) | ![screenshot](documentation/responsiveness/responsive-tablet-home.png) | ![screenshot](documentation/responsiveness/responsive-tablet-about.png) | ![screenshot](documentation/responsiveness/responsive-tablet-contact.png) | ![screenshot](documentation/responsiveness/responsive-tablet-etc.png) | Works as expected |
+| Desktop | ![screenshot](documentation/responsiveness/responsive-desktop-home.png) | ![screenshot](documentation/responsiveness/responsive-desktop-about.png) | ![screenshot](documentation/responsiveness/responsive-desktop-contact.png) | ![screenshot](documentation/responsiveness/responsive-desktop-etc.png) | Works as expected |
+| XL Monitor | ![screenshot](documentation/responsiveness/responsive-xl-home.png) | ![screenshot](documentation/responsiveness/responsive-xl-about.png) | ![screenshot](documentation/responsiveness/responsive-xl-contact.png) | ![screenshot](documentation/responsiveness/responsive-xl-etc.png) | Scaling starts to have minor issues |
+| 4K Monitor | ![screenshot](documentation/responsiveness/responsive-4k-home.png) | ![screenshot](documentation/responsiveness/responsive-4k-about.png) | ![screenshot](documentation/responsiveness/responsive-4k-contact.png) | ![screenshot](documentation/responsiveness/responsive-4k-etc.png) | Noticeable scaling issues |
+| Google Pixel 7 Pro | ![screenshot](documentation/responsiveness/responsive-pixel-home.png) | ![screenshot](documentation/responsiveness/responsive-pixel-about.png) | ![screenshot](documentation/responsiveness/responsive-pixel-contact.png) | ![screenshot](documentation/responsiveness/responsive-pixel-etc.png) | Works as expected |
+| iPhone 14 | ![screenshot](documentation/responsiveness/responsive-iphone-home.png) | ![screenshot](documentation/responsiveness/responsive-iphone-about.png) | ![screenshot](documentation/responsiveness/responsive-iphone-contact.png) | ![screenshot](documentation/responsiveness/responsive-iphone-etc.png) | Works as expected |
+| repeat for any other tested browsers | x | x | x | x | x |
+
+## Deployment:
 
 ### GitHub
 
@@ -185,7 +205,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
     (https://github.com/trxdave/kleandetailing)
 
-## 5. Credit:
+## Credit:
 
 ### Media
 
