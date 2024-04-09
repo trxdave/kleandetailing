@@ -4,44 +4,6 @@
 
 Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
-## Table of Contents
-
-1. ## UX 
-    1. ### Project
-    2. ### Color
-    3. ### Text
-    4. ### Logo
-    5. ### Wireframes
-
-2. ## Features
-    1. ### General
-    2. ### Header with Nav
-    3. ### Footer
-    4. ### Landing Page
-    5. ### Inform Section
-    6. ### Column Section
-    7. ### Our Work
-    8. ### Polishing/Paint Correction
-    9. ### Headlight Restoration
-   10. ### Leather Restoration
-   11. ### Join Our Membership
-   12. ### Book a Services
-   13. ### Contact Us
-
-3. ## Testing
-    1. ### Validator
-    2. ### Am I Responsive
-    3. ### Accessibility
-    4. ### W3C CSS Validator
-
-4. ## Deployment
-    1. ### GitHub
-
-5. ## Credits
-    1. ### Media
-    2. ### Code
-
-
 ## 1. UX
 
 ### Project
