@@ -1,14 +1,20 @@
 # Klean Detailing
 
-![Klean Detailing mockup images](readme-files/am-i-responsive/am-i-responsive.png)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/t/trxdave/kleandetailing)](https://github.com/trxdave/kleandetailing/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/trxdave/kleandetailing)](https://github.com/trxdave/kleandetailing/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/trxdave/kleandetailing)](https://github.com/trxdave/kleandetailing)
+
+## Am I Responsive?
+
+![Klean Detailing mockup images](documentation/am-i-responsive/am-i-responsive.png)
 
 Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
-## 1. UX
+## UX
 
 ### Project
 
-* Show the price of different type of Valeting.
+* Show the price of different types of Valeting.
 
 * Booking a Services online.
 
@@ -20,9 +26,11 @@ Visit the deployed website (https://trxdave.github.io/kleandetailing/)
 
 ### Color
 
-I use color space on website to pick out the color codeing matching palette on the logo. https://mycolor.space/?hex=%23A38A09&sub=1
+The colours used in the site are black (#020202), Dark Goldenrod (#A38A09), Baby powder (#FEFEFC) and Raisin black (#272727).
 
-The colors used in the site are black (#020202), Gold (#A38A09), White (#FEFEFC) and black (#272727).
+I used [coolors.co](https://coolors.co/020202-a38a09-fefefc-272727) to generate my colour palette.
+
+![alt text](documentation/Image/colours.png)
 
 ### Text
 
@@ -48,28 +56,28 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 * The header contains the business logo top of the screen.
 * 5 pages bar includes links to the Home, Our Works, Membership, Book a  Services, Contact Us. The section will easily navigate from page to page across all devices.
 
- ![Alt text](readme-files/Image/header.png)
+ ![Alt text](documentation/Image/header.png)
 
    
 ### Footer
 
 * The footer includes a logo, location address and social media channels.
 
- ![Alt text](readme-files/Image/footer.png)
+ ![Alt text](documentation/Image/footer.png)
 
 
 ### Landing Page
 
 * Hero Image is designed to attract the customer's attention with a car wash.
 
- ![Alt text](readme-files/Image/landing-page.png)
+ ![Alt text](documentation/Image/landing-page.png)
 
 
 ### Info Section
 
 * Information car wash, valeting and detailing.
 
- ![Alt text](readme-files/Image/info-section.png)
+ ![Alt text](documentation/Image/info-section.png)
     
 
 ### Column Section
@@ -77,49 +85,49 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 * We are allowing the customer to read what the business has to offer.
 * Show Bronze Valet, Silver Valet, Gold Valet and Platinum Valet with pricing and what item on the list.
 
- ![Alt text](readme-files/Image/column.png)
+ ![Alt text](documentation/Image/column.png)
     
 
 ### Our Work
 
 * We are allowing the customer to read what involves cleaning and restoration of a vehicle, both inside and out.
 
- ![Alt text](readme-files/Image/our-work.png)
+ ![Alt text](documentation/Image/our-work.png)
     
 
 ### Polishing/Paint Correction
 
 * We are allowing the customer to read what involves polishing/paint correction.
 
- ![Alt text](readme-files/Image/polishing-paint-correction.png)
+ ![Alt text](documentation/Image/polishing-paint-correction.png)
     
 
 ### Headlight Restoration
 
 * We are allowing the customer to read what involves headlight restoration.
 
- ![Alt text](readme-files/Image/headlight-restoration.png)
+ ![Alt text](documentation/Image/headlight-restoration.png)
     
 ### Leather Restoration
 
 * We are allowing the customer to read what involves leather restoration.
 
- ![Alt text](readme-files/Image/leather-restoration.png)
+ ![Alt text](documentation/Image/leather-restoration.png)
     
 ### Join our Membership
 
 * We are allowing the customer to join our membership for a year to get discounts all year round on products and services.
 
- ![Alt text](readme-files/Image/join-our-membership.png)
+ ![Alt text](documentation/Image/join-our-membership.png)
     
 ### Book a Services
 
 * We are allowing show the customer what valet involves and extra.
- ![Alt text](readme-files/Image/book-a-services.png)
+ ![Alt text](documentation/Image/book-a-services.png)
 
 * The form allows customer to book a services, book a reservation on a specific date. 
 
- ![Alt text](readme-files/Image/book-form.png)
+ ![Alt text](documentation/Image/book-form.png)
     
 * I did make a calendar but it is not working for me and no time for it that I need learn more about what date is available and what is not available. I change input instead of calendar.
 
@@ -127,7 +135,7 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 * The form allows customers to contact us.
 
- ![Alt text](readme-files/Image/contact-us.png)
+ ![Alt text](documentation/Image/contact-us.png)
     
 
 ## 3. Testing:
@@ -137,19 +145,19 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 * The W3C Markup Validator and W3C CSS Validator there were no syntax errors.
 
 ### Index:
-![Alt text](readme-files/validator/validator-index.png)
+![Alt text](documentation/validator/validator-index.png)
 
 ### Our Work:
-![Alt text](readme-files/validator/validator-our-work.png)
+![Alt text](documentation/validator/validator-our-work.png)
 
 ### Join our membership:
-![Alt text](readme-files/validator/validator-join-our-membership.png)
+![Alt text](documentation/validator/validator-join-our-membership.png)
 
 ### Book a Services:
-![Alt text](readme-files/validator/validator-book-a-services.png)
+![Alt text](documentation/validator/validator-book-a-services.png)
 
 ### Contact Us:
-![Alt text](readme-files/validator/validator-contact-us.png)
+![Alt text](documentation/validator/validator-contact-us.png)
 
 ## Am I Responsive:
 
@@ -159,20 +167,20 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 (https://ui.dev/amiresponsive)
 
-![Alt text](readme-files/am-i-responsive/am-i-responsive.png)
+![Alt text](documentation/am-i-responsive/am-i-responsive.png)
     
 
 ### Accessibility:
 
 * Used Lighthouse in Chrome to confirm that the colours and fonts used and website are easy to read and accessible.
 
-![Alt text](readme-files/Image/Accessibility.png)
+![Alt text](documentation/Image/Accessibility.png)
 
 ### W3C CSS Validator
 
 * The W3C CSS Validation there were no errors.
 
-![Alt text](readme-files/validator/w3c-css.png)
+![Alt text](documentation/validator/w3c-css.png)
 
 ## 4. Deployment:
 
