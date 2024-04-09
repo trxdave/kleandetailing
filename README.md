@@ -142,22 +142,15 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 ### Code Validator:
 
-* The W3C Markup Validator and W3C CSS Validator there were no syntax errors.
+I have used the recommended HTML W3C Validator (https://validator.w3.org) to validate all of my HTML files.
 
-### Index:
-![Alt text](documentation/validator/validator-index.png)
-
-### Our Work:
-![Alt text](documentation/validator/validator-our-work.png)
-
-### Join our membership:
-![Alt text](documentation/validator/validator-join-our-membership.png)
-
-### Book a Services:
-![Alt text](documentation/validator/validator-book-a-services.png)
-
-### Contact Us:
-![Alt text](documentation/validator/validator-contact-us.png)
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+|  | book-a-services.html | ![screenshot](documentation/validator/validator-book-a-services.png) | There were no syntax errors. |
+|  | contact-us.html | ![screenshot](documentation/validator/validator-contact-us.png) |  There were no syntax errors. |
+|  | index.html | ![screenshot](documentation/validator/validator-index.png) | There were no syntax errors. |
+|  | membership.html | ![screenshot](documentation/validator/validator-join-our-membership.png) | There were no syntax errors. |
+|  | our-work.html | ![screenshot](documentation/validator/validator-our-work.png) | There were no syntax errors. |
 
 ## Am I Responsive:
 
@@ -178,9 +171,11 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 ### W3C CSS Validator
 
-* The W3C CSS Validation there were no errors.
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 
-![Alt text](documentation/validator/w3c-css.png)
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+| assets | style.css | ![screenshot](documentation/validator/w3c-css.png) | There were no errors.
 
 ## 4. Deployment:
 
