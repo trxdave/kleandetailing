@@ -177,16 +177,6 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 | --- | --- | --- | --- |
 | assets | style.css | ![screenshot](documentation/validator/w3c-css.png) | There were no errors.
 
-### Browser Compatibility
-
-I've tested my deployed project on multiple browsers to check for compatibility issues.
-
-| Browser | Home | Our Work | Membership | Book a Services | Contact Us | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Chrome | ![screenshot](documentation/Image/bindex.png) | ![screenshot](documentation/Image/bourwork.png) | ![screenshot](documentation/Image/bmembership.png) | ![screenshot](documentation/Image/bbookaservices.png) | ![screenshot](documentation/Image/bconactus.png) | Works as expected |
-| Edge | ![screenshot](documentation/Image/eindex.png) | ![screenshot](documentation/Image/eourwork.png) | ![screenshot](documentation/Image/emembership.png) | ![screenshot](documentation/Image/ebookaservices.png) | ![screenshot](documentation/Image/econactus.png) |  Works as expected |
-| Brave | ![screenshot](documentation/Image/brindex.png) | ![screenshot](documentation/Image/brourwork.png) | ![screenshot](documentation/Image/brmembership.png) | ![screenshot](documentation/Image/brbookaservices.png) | ![screenshot](documentation/Image/brconactus.png) | Works as expected |
-
 ## 4. Deployment:
 
 ### GitHub
