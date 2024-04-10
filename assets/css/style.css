@@ -101,8 +101,9 @@ li {
     margin: 0;
   }
   
-  .navbar a:hover, .dropdown:hover .dropbtn {
+  .navbar a:hover {
     background-color: #a38a09;
+    color: white;
   }
 
   .button {
