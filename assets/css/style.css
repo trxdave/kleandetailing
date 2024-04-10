@@ -470,7 +470,8 @@ article.mobile-email {
 }
 
 .location-address {
-  margin-left: 50px;
+  margin-top: 10px;
+  color: white;
 }
 
 /* social networks */
@@ -687,8 +688,11 @@ img.contact-image {
     flex-direction: column;
   }
 
+  .navbar {
+    flex-wrap: wrap;
+  }
+
   .navbar a {
-    float: none;
     width: 100%;
   }
 
@@ -853,11 +857,13 @@ img.contact-image {
 
 /* footer */
 .footer-logo {
-  margin-left: 170px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .location-address {
-  margin-left: 140px;
+  margin-left: auto;
+  margin-right: auto;
 }}
 
 /* Media queries Mobile screen */
