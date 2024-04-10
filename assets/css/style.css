@@ -440,10 +440,10 @@ input#date-of-birth {
 /* Footer */
 
 footer {
-    height: 370px;
+    height: auto;
     margin-top: 20px;
     background-color: #020202;
-    padding: 10px;
+    padding: 20px;
 }
 
 .text-block {
@@ -456,12 +456,8 @@ footer {
 }
 
 .footer-logo {
-  float: left;
-  display: flex;  
-  width: 250px;
-  margin-left: 95px;
-  height: 150px;
-  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 article.mobile-email {
@@ -470,8 +466,9 @@ article.mobile-email {
 }
 
 .location-address {
-  margin-top: 10px;
   color: white;
+  font-size: 25px;
+  font-family: poppins;
 }
 
 /* social networks */
@@ -481,7 +478,7 @@ article.mobile-email {
   flex-wrap: nowrap;
   justify-content: space-evenly;
   margin-top: 300px;
-  }
+}
   
   .rounded-social-buttons .social-button {
   display: inline-block;
@@ -501,7 +498,7 @@ article.mobile-email {
   transition: all 0.5s ease;
   margin-right: 0.25rem;
   margin-bottom: 0.25rem;
-  }
+}
   
   .rounded-social-buttons .social-button:hover, .rounded-social-buttons .social-button:focus {
   transform: rotate(360deg);
@@ -867,7 +864,7 @@ img.contact-image {
 }}
 
 /* Media queries Mobile screen */
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
   .body {
     flex-direction: column;
   }
