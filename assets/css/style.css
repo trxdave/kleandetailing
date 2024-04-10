@@ -149,6 +149,7 @@ li {
   .row {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
   }
   
   /* Clear floats after the columns */
