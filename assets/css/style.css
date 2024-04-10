@@ -70,8 +70,9 @@ li {
 /* Nav Bar */
 
 .navbar {
-    overflow: hidden;
     background-color: #fefefc;
+    display: flex;
+    justify-content: center;
   }
   
   .navbar a {
