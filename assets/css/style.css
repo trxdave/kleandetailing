@@ -448,11 +448,6 @@ footer {
 
 .text-block {
   color: white;
-  margin-left: 30px;
-  display: flex;
-  float: inline-start;
-  position: absolute;
-  margin-top: 150px;
 }
 
 .footer-logo {
@@ -477,7 +472,6 @@ article.mobile-email {
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-evenly;
-  margin-top: 300px;
 }
   
   .rounded-social-buttons .social-button {
