@@ -132,16 +132,40 @@ li {
   
   /* Create four equal columns that floats next to each other */
   
-  .column {
-    padding: 10px;
+  .column-bronze {
+    background-color: #a97142;
+    width: 20%;
     border-radius: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
-    display: flex;
-    align-content: center;
-    flex-wrap: wrap;
-    flex-direction: column;
-    flex: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+  }
+
+  .column-silver {
+    background-color: silver;
+    width: 20%;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;    
+  }
+
+  .column-gold {
+    background-color: a38a09;
+    width: 20%;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
+  }
+
+  .column-platinum {
+    background-color: #e5e4e2;
+    width: 20%;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px;
   }
   
 
@@ -544,15 +568,6 @@ article.mobile-email {
 
 /* Media queries large screens (1200px and up) */
 @media screen and (max-width: 1200px){
-  .column {
-    display: flex;
-    flex-flow: row wrap;
-    flex-wrap: nowrap;
-    align-content: flex-start;
-    justify-content: center;
-    align-items: center;
-    margin-top: 20px;
-  }
 
 /* Our Work */
   .shine-scratch {
@@ -610,14 +625,33 @@ img.contact-image {
 
 /* Media queries large (laptops and desktop) */
 @media screen and (max-width: 992px) {
-  .column {
-    display: flex;
-    flex-flow: row wrap;
-    flex-wrap: wrap;
-    align-content: flex-start;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
+  
+  .column-bronze {
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .column-silver {
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .column-gold {
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .column-platinum {
+    margin-bottom: 20px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
   }
 /* Our Work */
   .shine-scratch {
@@ -687,15 +721,32 @@ img.contact-image {
     width: 100%;
   }
 
-  .column {
-    display: flex;
-    flex-flow: row wrap;
-    flex-wrap: nowrap;
-    align-content: flex-start;
-    justify-content: center;
-    align-items: center;
-    margin-top: 10px;
-    margin-right: 35px;
+  .column-bronze {
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .column-silver {
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .column-gold {
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .column-platinum {
+    margin-bottom: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
   }
 
 /* Our Work */
@@ -774,7 +825,7 @@ img.contact-image {
   .column {
     display: flex;
     flex-flow: row wrap;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     align-content: flex-start;
     justify-content: center;
     align-items: center;
@@ -866,9 +917,7 @@ img.contact-image {
     display: flex;
     flex-flow: row wrap;
     flex-wrap: nowrap;
-    align-content: flex-start;
-    justify-content: center;
-    align-items: center;
+    flex-direction: row;
     margin-top: 10px;
     margin-right: 5px;
   }
