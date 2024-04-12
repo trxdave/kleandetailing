@@ -65,6 +65,8 @@ li {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    height: 53px;
+    align-items: center;
   }
   
   .navbar a {
