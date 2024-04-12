@@ -195,7 +195,7 @@ li {
   .text-input {
     background: transparent;
     color: white;
-    width: 100%;
+    width: 90%;
     height: 35px;
     margin: 5px 0 20px 0;
     border: 1px solid white;
@@ -384,15 +384,14 @@ img.contact-image {
   color: white;
   background-color: #272727;
   position: absolute;
-  top: 50%;
-  right: 35%;
-  padding: 10px 5% 10px 5%;
-  opacity: 90%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+  top: 80%;
+  right: 23%;
+  transform: translate(-50%, -50%);
+  padding: 20px;
+  width: 80%;
   border-radius: 20px;
+  max-width: 400px;
+  opacity: 90%;
 }
 
 .write-something {
@@ -655,8 +654,8 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 50%;
-  right: 30%;
+  top: 80%;
+  left: 50%;
 }
 }
 
@@ -666,6 +665,11 @@ img.contact-image {
     width: 100%;
     max-width: 450px;
     top: 123%;
+  }
+
+  .contact-us {
+    top: 110%;
+    left: 50%;
   }
 }
 
@@ -741,7 +745,7 @@ img.contact-image {
 
 .contact-us {
   top: 52%;
-  right: 26%;
+  left: 50%;
 }
 }
 
@@ -879,8 +883,8 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 45%;
-  right: 22%;
+  top: 75%;
+  left: 50%;
 }
 }
 
@@ -977,8 +981,7 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 50%;
-  right: 15%;
+  top: 100%;
 }
 
 /* footer */
@@ -1077,8 +1080,8 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 50%;
-  right: 5%;
+  top: 75%;
+  left: 50%;
   width: 250px;
 }
 
@@ -1115,6 +1118,13 @@ img.contact-image {
     width: 80%;
     top: 128%;
   }
+
+  /* Contact Us */
+  .contact-us {
+    top: 100%;
+    left: 50%;
+    width: 250px;
+  }
 }
 
 /* Media queries Mobile screen */
@@ -1139,6 +1149,12 @@ img.contact-image {
 
   /* Book a Services */
   .book-a-services {
+    width: 200px;
+  }
+
+  /* Contact us */
+  .contact-us {
+    top: 100%;
     width: 200px;
   }
 
