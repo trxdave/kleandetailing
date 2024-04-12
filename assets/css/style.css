@@ -1131,9 +1131,15 @@ img.contact-image {
 /* Media queries Mobile screen */
 @media screen and (max-width: 280px) {
 
+  /* Membership */
   .join-us {
     width: 70%;
     top: 125%;
+  }
+
+  /* Book a Services */
+  .book-a-services {
+    width: 200px;
   }
 
 }
