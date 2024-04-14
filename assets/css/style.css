@@ -384,20 +384,24 @@ img.contact-image {
 .contact-us {
   color: white;
   background-color: #272727;
-  position: absolute;
-  top: 80%;
-  right: 27%;
-  transform: translate(-50%, -50%);
+  transform: translate(130%, -240%);
   padding: 20px;
-  width: 80%;
-  border-radius: 20px;
-  max-width: 400px;
   opacity: 90%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 20px;
+  max-width: 500px;
+  margin-bottom: -690px;
+  width: 80%;
+  margin: 20px auto;
+  position: absolute;
 }
 
 .write-something {
-  max-width: 100%;
+  width: 100%;
   height: 60%;
+  max-width: 100%;
   padding: 12px 20px;
   box-sizing: border-box;
   border: 2px solid #ccc;
@@ -405,19 +409,17 @@ img.contact-image {
   background-color: #f8f8f8;
   font-size: 16px;
   resize: none;
+  margin-bottom: 20px;
 }
 
 input.write-something {
-  margin-top: 20px;
   border-radius: 2px;
-  padding: 15px 32px 15px 32px;
+  padding: 15px 32px;
   text-align: center;
   font-size: 100%;
   background-color: #a38a09;
   color: black;
-  display: block;
   margin-bottom: 20px;
-  margin-left: 60px;
 }
 
 /* Join Our Membership */
@@ -430,10 +432,6 @@ form {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-.form-section {
-  padding: 20px;
 }
 
 .input-container {
@@ -461,6 +459,7 @@ form {
     margin-bottom: -690px;
     width: 80%;
     margin-top: 20px auto;
+    position: absolute;
 }
 
 .join-us img.join-us-image {
@@ -487,7 +486,6 @@ form {
   margin-bottom: 15px;
   font-weight: bold;
   font-style: italic;
-  
 }
 
 .submit {
@@ -503,10 +501,6 @@ border-radius: 10px;
     max-width: 200px;
     margin-top: 20px;
   }
-
-section.form-section {
-  bottom: -100px;
-}
 
 input#date-of-birth {
   background: transparent;
@@ -799,8 +793,7 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 52%;
-  left: 50%;
+  width: 40%;
 }
 }
 
@@ -944,8 +937,7 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 75%;
-  left: 50%;
+  width: 60%;
 }
 }
 
@@ -1140,9 +1132,8 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 75%;
-  left: 50%;
-  width: 250px;
+  width: 95%;
+  max-width: 95%;
 }
 
 #write-something {
@@ -1181,9 +1172,8 @@ img.contact-image {
 
   /* Contact Us */
   .contact-us {
-    top: 100%;
-    left: 50%;
-    width: 250px;
+    transform: translate(-170px, -70px);
+    width: 80%;
   }
 }
 
@@ -1214,7 +1204,7 @@ img.contact-image {
 
   /* Contact us */
   .contact-us {
-    top: 100%;
+    transform: translate(20px, -865px);
     width: 200px;
   }
 
