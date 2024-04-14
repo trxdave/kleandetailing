@@ -698,8 +698,8 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 80%;
-  left: 50%;
+  transform: translate(360px, -650px);
+  width: 80%;
 }
 }
 
@@ -712,8 +712,8 @@ img.contact-image {
   }
 
   .contact-us {
-    top: 110%;
-    left: 50%;
+    transform: translate(-265px, -100px);
+    width: 80%;
   }
 }
 
@@ -798,21 +798,43 @@ img.contact-image {
 }
 
 /* Media queries Tablets and larger screen */
+@media screen and (max-width: 912px) {
+  .contact-us {
+    transform: translate(-265px, -710px);
+    width: 80%;
+  }
+}
+
+/* Media queries Tablets and larger screen */
 @media screen and (max-width: 853px) {
   .join-us {
     width: 100%;
     max-width: 450px;
     transform: translate(150px, -790px);
   }
+
+  .contact-us {
+    transform: translate(-265px, -640px);
+    width: 80%;
+  }
 }
 
 /* Media queries Tablets and larger screen */
 @media screen and (max-width: 820px) {
   
+  /* Membership */
+
   .join-us {
     width: 100%;
     max-width: 450px;
     transform: translate(130px, -790px);
+  }
+
+  /* Contact Us */
+
+  .contact-us {
+    transform: translate(-255px, -910px);
+    width: 80%;
   }
 }
 
@@ -937,7 +959,8 @@ img.contact-image {
 }
 
 .contact-us {
-  width: 60%;
+  transform: translate(120px, -630px);
+  width: 80%;
 }
 }
 
@@ -1033,7 +1056,8 @@ img.contact-image {
 }
 
 .contact-us {
-  top: 100%;
+  transform: translate(-235px, -80px);
+  width: 80%;
 }
 
 /* footer */
@@ -1132,8 +1156,8 @@ img.contact-image {
 }
 
 .contact-us {
-  width: 95%;
-  max-width: 95%;
+  transform: translate(-195px, -510px);
+  width: 80%;
 }
 
 #write-something {
@@ -1161,6 +1185,28 @@ img.contact-image {
 }}
 
 /* Media queries Mobile screen */
+@media screen and (max-width: 412px) {
+    
+  /* Contact Us */
+
+    .contact-us {
+      transform: translate(-185px, -310px);
+      width: 80%;
+    }
+}
+
+/* Media queries Mobile screen */
+@media screen and (max-width: 390px) {
+    
+  /* Contact Us */
+
+    .contact-us {
+      transform: translate(-175px, -435px);
+      width: 80%;
+    }
+}
+
+/* Media queries Mobile screen */
 @media screen and (max-width: 375px) {
   
   /* Membership */
@@ -1172,7 +1218,7 @@ img.contact-image {
 
   /* Contact Us */
   .contact-us {
-    transform: translate(-170px, -70px);
+    transform: translate(-165px, -340px);
     width: 80%;
   }
 }
@@ -1204,8 +1250,8 @@ img.contact-image {
 
   /* Contact us */
   .contact-us {
-    transform: translate(20px, -865px);
-    width: 200px;
+    transform: translate(-133px, -145px);
+    width: 80%;
   }
 
 }
