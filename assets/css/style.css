@@ -65,7 +65,6 @@ li {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    height: 53px;
     align-items: center;
   }
   
@@ -427,20 +426,59 @@ img.join-us-image {
   height: 100%;
 }
 
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-section {
+  padding: 20px;
+}
+
+.input-container {
+  width: 90%;
+  max-width: 400px;
+}
+
+.text-input {
+  width: 100%;
+  margin: 5px 0;
+}
+
 .join-us {
     color: white;
     background-color: #272727;
-    position: absolute;
-    top: 85%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 10px 5% 10px 5%;
+    transform: translate(160%, -135%);
+    padding: 20px;
     opacity: 90%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     border-radius: 20px;
+    max-width: 400px;
+    margin-bottom: -690px;
+    width: 80%;
+    margin-top: 20px auto;
+}
+
+.join-us img.join-us-image {
+  width: 100%;
+}
+
+.join-us form {
+  width: 100%;
+}
+
+.join-us .text-input, .join-us .submit {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.join-us .submit {
+  width: 100%;
+  margin-top: 20px;
 }
 
 #join-our-form p {
@@ -461,7 +499,14 @@ border-radius: 10px;
     color: black;
     font-weight: bold;
     text-transform: uppercase;
+    width: 100%;
+    max-width: 200px;
+    margin-top: 20px;
   }
+
+section.form-section {
+  bottom: -100px;
+}
 
 input#date-of-birth {
   background: transparent;
@@ -477,10 +522,13 @@ input#date-of-birth {
 /* Footer */
 
 footer {
-    height: auto;
     margin-top: 20px;
     background-color: #020202;
     padding: 20px;
+}
+
+.footer, .location-address {
+  text-align: center;
 }
 
 .text-block {
@@ -626,8 +674,8 @@ article.mobile-email {
 /* Membership */
 
 .join-us {
-  width: 50%;
-  top: 93%;
+  width: 40%;
+  transform: translate(400px, -790px);
 }
 
 img.join-us-image {
@@ -666,7 +714,7 @@ img.contact-image {
   .join-us {
     width: 100%;
     max-width: 450px;
-    top: 123%;
+    transform: translate(240px, -790px);
   }
 
   .contact-us {
@@ -720,6 +768,11 @@ img.contact-image {
 
 /* Membership */
 
+.join-us {
+  width: 50%;
+  transform: translate(200px, -790px);
+}
+
 img.join-us-image {
   width: 100%;
   height: 800px;
@@ -756,7 +809,7 @@ img.contact-image {
   .join-us {
     width: 100%;
     max-width: 450px;
-    top: 58%;
+    transform: translate(150px, -790px);
   }
 }
 
@@ -766,7 +819,7 @@ img.contact-image {
   .join-us {
     width: 100%;
     max-width: 450px;
-    top: 63%;
+    transform: translate(130px, -790px);
   }
 }
 
@@ -840,9 +893,10 @@ img.contact-image {
 /* Membership */
 
 .join-us {
-  width: 80%;
   max-width: 400px;
-  top: 83%;
+  transform: translate(30%, -115%);
+  margin-top: 40px;
+  width: 60%;
 }
 
 .text-input {
@@ -852,11 +906,16 @@ img.contact-image {
 
 .submit {
   width: 100%;
+  max-width: none;
 }
 
 img.join-us-image {
   width: 100%;
   height: 800px;
+}
+
+.input-container {
+  width: 100%;
 }
 
 /* Book a Services */
@@ -947,9 +1006,8 @@ img.contact-image {
 /* Membership */
 
 .join-us {
-  width: 100%;
-  max-width: 450px;
-  top: 83%;
+  width: 90%;
+  transform: translate(35px, -820px);
 }
 
 img.join-us-image {
@@ -1052,7 +1110,7 @@ img.contact-image {
 /* Membership */
   .join-us {
     width: 80%;
-    top: 95%;
+    transform: translate(20px, -838px);
   }
 
 /* Book a Services */
@@ -1118,7 +1176,7 @@ img.contact-image {
   
   .join-us {
     width: 80%;
-    top: 128%;
+    transform: translate(18px, -850px);
   }
 
   /* Contact Us */
@@ -1146,7 +1204,7 @@ img.contact-image {
   /* Membership */
   .join-us {
     width: 70%;
-    top: 125%;
+    transform: translate(20px, -865px);
   }
 
   /* Book a Services */
