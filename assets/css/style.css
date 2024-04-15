@@ -1166,7 +1166,7 @@ img.contact-image {
 /* Membership */
   .join-us {
     width: 80%;
-    transform: translate(20px, -838px);
+    transform: translate(25px, -800px);
   }
 
 /* Book a Services */
@@ -1270,7 +1270,7 @@ img.contact-image {
   
   .join-us {
     width: 80%;
-    top: 115%;
+    transform: translate(18px, -825px);
   }
 }
 

@@ -195,11 +195,11 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 | Iphone SE | ![Home](image.png) | ![Our Work](image-2.png) | ![Membership](image-3.png) | ![Book a Services](image-4.png) | ![Contact Us](image-5.png) | Works as expected |
 | Iphone XR | ![Home](image-6.png) | ![Our Work](image-7.png) | ![Membership](image-8.png) | ![Book a Services](image-9.png) | ![Contact Us](image-10.png) | Works as expected |
 | Iphone 12 Pro | ![Home](image-11.png) | ![Our Work](image-12.png) | ![Membership](image-13.png) | ![Book a Services](image-14.png) | ![Contact Us](image-15.png) | Works as expected |
-| Iphone Pro Max | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
-| Pixel 7 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
-| Samsung Galaxy S8 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
-| Samsung Galaxy S20 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
-| IPad mini | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Iphone Pro Max | ![Home](image-16.png) | ![Our Work](image-17.png) | ![Membership](image-18.png) | ![Book a Services](image-19.png) | ![Contact Us](image-20.png) | Works as expected |
+| Pixel 7 | ![Home](image-21.png) | ![Our Work](image-22.png) | ![Membership](image-23.png) | ![Book a Services](image-24.png) | ![Contact Us](image-25.png) | Works as expected |
+| Samsung Galaxy S8 | ![Home](image-26.png) | ![Our Work](image-27.png) | ![Membership](image-28.png) | ![Book a Services](image-29.png) | ![Contact Us](image-30.png) | Works as expected |
+| Samsung Galaxy S20 | ![Home](image-31.png) | ![Our Work](image-32.png) | ![Membership](image-33.png) | ![Book a Services](image-34.png) | ![Contact Us](image-35.png) | Works as expected |
+| IPad mini | ![Home](image-36.png) | ![Our Work](image-37.png) | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
 | IPad Air | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
 | IPad pro | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
 | Surface Pro 7 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
