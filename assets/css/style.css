@@ -708,8 +708,7 @@ article.mobile-email {
 /* Membership */
 
 .join-us {
-  width: 60%;
-  transform: translate(390px, -760px);
+  transform: translate(415px, -760px);
 }
 
 img.join-us-image {
@@ -848,9 +847,8 @@ img.contact-image {
 /* Media queries Tablets and larger screen */
 @media screen and (max-width: 853px) {
   .join-us {
-    width: 100%;
     max-width: 450px;
-    transform: translate(150px, -790px);
+    transform: translate(185px, -760px);
   }
 
   .contact-us {
@@ -867,7 +865,7 @@ img.contact-image {
   .join-us {
     width: 100%;
     max-width: 450px;
-    transform: translate(130px, -790px);
+    transform: translate(150px, -760px);
   }
 
   /* Contact Us */
@@ -948,7 +946,6 @@ img.contact-image {
 /* Membership */
 
 .join-us {
-  max-width: 400px;
   transform: translate(30%, -115%);
   margin-top: 40px;
   width: 60%;
@@ -1062,7 +1059,7 @@ img.contact-image {
 
 .join-us {
   width: 90%;
-  transform: translate(35px, -820px);
+  transform: translate(25px, -800px);
 }
 
 img.join-us-image {
@@ -1279,8 +1276,7 @@ img.contact-image {
 
   /* Membership */
   .join-us {
-    width: 70%;
-    transform: translate(20px, -865px);
+    transform: translate(8px, -825px);
   }
 
   /* Book a Services */
