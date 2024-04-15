@@ -58,6 +58,8 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
  ![Alt text](documentation/Image/header.png)
 
+* The button highlighted in Dark Goldenrod (#A38A09) on desktop and mobile devices.
+ ![alt text](documentation/Image/hover.png)
    
 ### Footer
 
@@ -146,11 +148,11 @@ I have used the recommended HTML W3C Validator (https://validator.w3.org) to val
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
+|  | index.html | ![screenshot](documentation/validator/validator-index.png) | There were no syntax errors. |
+|  | our-work.html | ![screenshot](documentation/validator/validator-our-work.png) | There were no syntax errors. |
+|  | membership.html | ![screenshot](documentation/validator/validator-join-our-membership.png) | There were no syntax errors. |
 |  | book-a-services.html | ![screenshot](documentation/validator/validator-book-a-services.png) | There were no syntax errors. |
 |  | contact-us.html | ![screenshot](documentation/validator/validator-contact-us.png) |  There were no syntax errors. |
-|  | index.html | ![screenshot](documentation/validator/validator-index.png) | There were no syntax errors. |
-|  | membership.html | ![screenshot](documentation/validator/validator-join-our-membership.png) | There were no syntax errors. |
-|  | our-work.html | ![screenshot](documentation/validator/validator-our-work.png) | There were no syntax errors. |
 
 ## Am I Responsive:
 
@@ -171,9 +173,9 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | --- | --- | --- | --- |
 | Home | ![Mobile](documentation/accessibility/home-mobile.png) | ![Desktop](documentation/accessibility/home-desktop.png) | 100 Accessibility |
 | Our Work | ![Mobile](documentation/accessibility/ourwork-mobile.png) | ![Desktop](documentation/accessibility/ourwork-desktop.png) | 97 Accessibility |
-| Membership | ![Mobile](documentation/accessibility/membership-mobile.png) | ![Desktop](documentation/accessibility/membership-desktop.png) | Mobile 100 Accessibility and Desktop 100 Accessibility |
-| Book a Services | ![Mobile](documentation/accessibility/bookaservices-mobile.png) | ![Desktop](documentation/accessibility/bookaservices-desktop.png) | Mobile 95 Accessibility and Desktop 95 Accessibility |
-| Contact Us | ![Mobile](documentation/accessibility/contactus-mobile.png) | ![Desktop](documentation/accessibility/contactus-desktop.png) | Mobile 100 Accessibility and Desktop 100 Accessibility |
+| Membership | ![Mobile](documentation/accessibility/membership-mobile.png) | ![Desktop](documentation/accessibility/membership-desktop.png) | 100 Accessibility |
+| Book a Services | ![Mobile](documentation/accessibility/bookaservices-mobile.png) | ![Desktop](documentation/accessibility/bookaservices-desktop.png) | 95 Accessibility |
+| Contact Us | ![Mobile](documentation/accessibility/contactus-mobile.png) | ![Desktop](documentation/accessibility/contactus-desktop.png) | 100 Accessibility |
 
 
 ### W3C CSS Validator
@@ -190,14 +192,23 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 | Device | Home | About | Contact | etc | Notes |
 | --- | --- | --- | --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsiveness/responsive-mobile-home.png) | ![screenshot](documentation/responsiveness/responsive-mobile-about.png) | ![screenshot](documentation/responsiveness/responsive-mobile-contact.png) | ![screenshot](documentation/responsiveness/responsive-mobile-etc.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsiveness/responsive-tablet-home.png) | ![screenshot](documentation/responsiveness/responsive-tablet-about.png) | ![screenshot](documentation/responsiveness/responsive-tablet-contact.png) | ![screenshot](documentation/responsiveness/responsive-tablet-etc.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsiveness/responsive-desktop-home.png) | ![screenshot](documentation/responsiveness/responsive-desktop-about.png) | ![screenshot](documentation/responsiveness/responsive-desktop-contact.png) | ![screenshot](documentation/responsiveness/responsive-desktop-etc.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsiveness/responsive-xl-home.png) | ![screenshot](documentation/responsiveness/responsive-xl-about.png) | ![screenshot](documentation/responsiveness/responsive-xl-contact.png) | ![screenshot](documentation/responsiveness/responsive-xl-etc.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsiveness/responsive-4k-home.png) | ![screenshot](documentation/responsiveness/responsive-4k-about.png) | ![screenshot](documentation/responsiveness/responsive-4k-contact.png) | ![screenshot](documentation/responsiveness/responsive-4k-etc.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsiveness/responsive-pixel-home.png) | ![screenshot](documentation/responsiveness/responsive-pixel-about.png) | ![screenshot](documentation/responsiveness/responsive-pixel-contact.png) | ![screenshot](documentation/responsiveness/responsive-pixel-etc.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsiveness/responsive-iphone-home.png) | ![screenshot](documentation/responsiveness/responsive-iphone-about.png) | ![screenshot](documentation/responsiveness/responsive-iphone-contact.png) | ![screenshot](documentation/responsiveness/responsive-iphone-etc.png) | Works as expected |
-| repeat for any other tested browsers | x | x | x | x | x |
+| Iphone SE | ![Home](image.png) | ![Our Work](image-2.png) | ![Membership](image-3.png) | ![Book a Services](image-4.png) | ![Contact Us](image-5.png) | Works as expected |
+| Iphone XR | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Iphone 12 Pro | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Iphone Pro Max | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Pixel 7 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Samsung Galaxy S8 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Samsung Galaxy S20 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| IPad mini | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| IPad Air | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| IPad pro | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Surface Pro 7 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Surface Duo | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Samsung Galaxy fold | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Asus Zenbook fold | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Samsung Galaxy | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Nest Hub Max | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| IPad | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
 
 ## Deployment:
 
