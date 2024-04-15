@@ -458,7 +458,6 @@ form {
     max-width: 400px;
     margin-bottom: -690px;
     width: 80%;
-    margin-top: 20px auto;
     position: absolute;
 }
 
@@ -745,9 +744,8 @@ img.contact-image {
 /* Media queries large (laptops and desktop) */
 @media screen and (max-width: 1024px) {
   .join-us {
-    width: 100%;
     max-width: 450px;
-    transform: translate(240px, -790px);
+    transform: translate(240px, -760px);
   }
 
   .contact-us {
@@ -803,7 +801,7 @@ img.contact-image {
 
 .join-us {
   width: 50%;
-  transform: translate(200px, -790px);
+  transform: translate(200px, -770px);
 }
 
 img.join-us-image {
