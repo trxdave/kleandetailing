@@ -190,11 +190,11 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
-| Device | Home | About | Contact | etc | Notes |
+| Device | Home | Our Work | Membership | Book a Services | Contact Us |
 | --- | --- | --- | --- | --- | --- |
 | Iphone SE | ![Home](image.png) | ![Our Work](image-2.png) | ![Membership](image-3.png) | ![Book a Services](image-4.png) | ![Contact Us](image-5.png) | Works as expected |
-| Iphone XR | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
-| Iphone 12 Pro | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
+| Iphone XR | ![Home](image-6.png) | ![Our Work](image-7.png) | ![Membership](image-8.png) | ![Book a Services](image-9.png) | ![Contact Us](image-10.png) | Works as expected |
+| Iphone 12 Pro | ![Home](image-11.png) | ![Our Work](image-12.png) | ![Membership](image-13.png) | ![Book a Services](image-14.png) | ![Contact Us](image-15.png) | Works as expected |
 | Iphone Pro Max | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
 | Pixel 7 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
 | Samsung Galaxy S8 | ![Home]() | ![Our Work]() | ![Membership]() | ![Book a Services]() | ![Contact Us]() | Works as expected |
