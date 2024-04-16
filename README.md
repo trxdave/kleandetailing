@@ -6,9 +6,9 @@
 
 ## Am I Responsive?
 
-[Klean Detailing mockup images](documentation/am-i-responsive/am-i-responsive.png)
+![Klean Detailing mockup images](documentation/am-i-responsive/am-i-responsive.png)
 
-Visit the deployed website ![Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
+Visit the deployed website [Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
 
 ## UX
 
