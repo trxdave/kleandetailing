@@ -6,9 +6,9 @@
 
 ## Am I Responsive?
 
-![Klean Detailing mockup images](documentation/am-i-responsive/am-i-responsive.png)
+[Klean Detailing mockup images](documentation/am-i-responsive/am-i-responsive.png)
 
-Visit the deployed website (https://trxdave.github.io/kleandetailing/)
+Visit the deployed website ![Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
 
 ## UX
 
@@ -34,7 +34,7 @@ I used [coolors.co](https://coolors.co/020202-a38a09-fefefc-272727) to generate 
 
 ### Text
 
-I use google font website ![Fonts Google](https://fonts.google.com/)
+I use google font website [Fonts Google](https://fonts.google.com/)
 
 Poppins are used for all sites but the logo are different text used by Photoshop text and designed by me in 2022.
 
@@ -193,15 +193,15 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 ### Code Validator:
 
-I have used the recommended HTML W3C Validator (https://validator.w3.org) to validate all of my HTML files.
+I have used the recommended HTML W3C Validator [W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
-|  | index.html | ![screenshot](documentation/validator/validator-index.png) | There were no syntax errors. |
-|  | our-work.html | ![screenshot](documentation/validator/validator-our-work.png) | There were no syntax errors. |
-|  | membership.html | ![screenshot](documentation/validator/validator-join-our-membership.png) | There were no syntax errors. |
-|  | book-a-services.html | ![screenshot](documentation/validator/validator-book-a-services.png) | There were no syntax errors. |
-|  | contact-us.html | ![screenshot](documentation/validator/validator-contact-us.png) |  There were no syntax errors. |
+| assets/validator | index.html | ![screenshot](documentation/validator/validator-index.png) | There were no syntax errors. |
+| assets/validator | our-work.html | ![screenshot](documentation/validator/validator-our-work.png) | There were no syntax errors. |
+| assets/validator | membership.html | ![screenshot](documentation/validator/validator-join-our-membership.png) | There were no syntax errors. |
+| assets/validator | book-a-services.html | ![screenshot](documentation/validator/validator-book-a-services.png) | There were no syntax errors. |
+| assets/validator | contact-us.html | ![screenshot](documentation/validator/validator-contact-us.png) |  There were no syntax errors. |
 
 ### W3C CSS Validator
 
@@ -218,7 +218,7 @@ I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-val
 
 * Used to check responsiveness of the site pages across different devices.
 
-![Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
+[Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
 
 ![Alt text](documentation/am-i-responsive/am-i-responsive.png)
     
@@ -236,7 +236,7 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Contact Us | ![Mobile](documentation/accessibility/contactus-mobile.png) | ![Desktop](documentation/accessibility/contactus-desktop.png) | 100 Accessibility |
 
 
-### Responsiveness
+### Responsiveness Devices
 
 I've tested my deployed project on multiple devices to check for responsiveness issues.
 
@@ -267,7 +267,7 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 * This website was developed using Codeanywhere but there was problem and I have to change to GitHub.
 
-    ![GitHub](https://github.com/trxdave/kleandetailing)
+    [GitHub](https://github.com/trxdave/kleandetailing)
 
 ## Credit:
 
@@ -279,27 +279,27 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 * Hero image: Car wash by Luke Miller
 
-* Pexels (https://www.pexels.com/photo/close-up-shot-of-a-car-wheel-during-car-wash-14231678/)
+* Pexels [Pexels Photography](https://www.pexels.com/photo/close-up-shot-of-a-car-wheel-during-car-wash-14231678/)
     
 * Polishing/Paint Correction, Headlight Restoration, Leather Restoration images
 
-Instagram image (https://www.instagram.com/kleandetailing2022/)
+Instagram image [Instagram](https://www.instagram.com/kleandetailing2022/)
 
 * Join Out Membership: Image by Luke Miller
 
-Pexels (https://www.pexels.com/photo/a-person-polishing-the-car-s-body-14231701/)
+Pexels [Pexels Photography](https://www.pexels.com/photo/a-person-polishing-the-car-s-body-14231701/)
 
 * Contact Us: Image by Luke Miller
 
-Pexels (https://www.pexels.com/photo/man-washing-his-car-14231676/)
+Pexels [Pexels Photography](https://www.pexels.com/photo/man-washing-his-car-14231676/)
 
 ### Libraries/Programs Used
 
-* I regularly use W3Schools. ![W3Schools](https://www.w3schools.com/)
-* I have completed all 24 levels of Flexbox Froggy. ![Flexbox Froggy](https://flexboxfroggy.com/)
-* I use ColorZilla for colour coding. ![ColorZilla](https://www.colorzilla.com/chrome/)
-* I used Font Awesome to incorporate social media icons with color into my project. ![Font Awesome](https://fontawesome.com/)
-* While searching for information on responsive form layout, I came across Transform on W3Schools. Hopefully, this will work! ![Transform](https://www.w3schools.com/css/tryit.asp?filename=trycss_align_transform)
+* I regularly use W3Schools. [W3Schools](https://www.w3schools.com/)
+* I have completed all 24 levels of Flexbox Froggy. [Flexbox Froggy](https://flexboxfroggy.com/)
+* I use ColorZilla for colour coding. [ColorZilla](https://www.colorzilla.com/chrome/)
+* I used Font Awesome to incorporate social media icons with colour and spin into my project. [Font Awesome](https://fontawesome.com/)
+* While searching for information on responsive form layout, I came across Transform on W3Schools. Hopefully, this will work! [Transform](https://www.w3schools.com/css/tryit.asp?filename=trycss_align_transform)
 * It helps users improve the quality and correctness of their written communication by identifying grammatical errors, spelling mistakes, punctuation issues, and style inconsistencies in their text. [Grammarly](https://www.grammarly.com/)
 * GitHub is a software hosting platform that enables users to store their projects in a remote location. This allows for easy access and collaboration on the project from different locations. [GitHub](https://www.github.com/)
 * GitPod as developer hosting platform. [GitPod](https://www.gitpod.com)
