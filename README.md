@@ -40,7 +40,9 @@ Poppins are used for all sites but the logo are different text used by Photoshop
 
 ### Logo
 
-I designed the logo back in 2022. ![Logo](assets/image/logo.webp)
+I designed the logo back in 2022. 
+
+![Logo](assets/image/logo.webp)
 
 ### Wireframes
 
@@ -285,17 +287,11 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 * Pexels [Pexels Photography](https://www.pexels.com/photo/close-up-shot-of-a-car-wheel-during-car-wash-14231678/)
     
-* Polishing/Paint Correction, Headlight Restoration, Leather Restoration images
+* Polishing/Paint Correction, Headlight Restoration, Leather Restoration images Instagram image [Instagram](https://www.instagram.com/kleandetailing2022/)
 
-Instagram image [Instagram](https://www.instagram.com/kleandetailing2022/)
+* Join Out Membership: Image by Luke Miller Pexels [Pexels Photography](https://www.pexels.com/photo/a-person-polishing-the-car-s-body-14231701/)
 
-* Join Out Membership: Image by Luke Miller
-
-Pexels [Pexels Photography](https://www.pexels.com/photo/a-person-polishing-the-car-s-body-14231701/)
-
-* Contact Us: Image by Luke Miller
-
-Pexels [Pexels Photography](https://www.pexels.com/photo/man-washing-his-car-14231676/)
+* Contact Us: Image by Luke Miller Pexels [Pexels Photography](https://www.pexels.com/photo/man-washing-his-car-14231676/)
 
 ### Libraries/Programs Used
 
