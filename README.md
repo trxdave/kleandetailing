@@ -34,13 +34,13 @@ I used [coolors.co](https://coolors.co/020202-a38a09-fefefc-272727) to generate 
 
 ### Text
 
-I use google font website (https://fonts.google.com/)
+I use google font website ![Fonts Google](https://fonts.google.com/)
 
 Poppins are used for all sites but the logo are different text used by Photoshop text and designed by me in 2022.
 
 ### Logo
 
-I designed the logo back in 2022. (assets/image/logo.webp)
+I designed the logo back in 2022. ![Logo](assets/image/logo.webp)
 
 ### Wireframes
 
@@ -59,13 +59,22 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
  ![Alt text](documentation/Image/header.png)
 
 * The button highlighted in Dark Goldenrod (#A38A09) on desktop and mobile devices.
+
  ![alt text](documentation/Image/hover.png)
+
+* Responsive Header with Navigation Bar
+
+ ![alt text](assets/image/responsiveheader.png)
    
 ### Footer
 
 * The footer includes a logo, location address and social media channels.
 
  ![Alt text](documentation/Image/footer.png)
+
+* Responsive Footer
+
+ ![alt text](assets/image/responsivefooter.png)
 
 
 ### Landing Page
@@ -74,12 +83,20 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
  ![Alt text](documentation/Image/landing-page.png)
 
+* Responsive Landing Page
+
+ ![alt text](assets/image/responsivelandingpage.png)
+
 
 ### Info Section
 
 * Information car wash, valeting and detailing.
 
  ![Alt text](documentation/Image/info-section.png)
+
+* Responsive Info Section
+
+ ![alt text](assets/image/responsiveinfosection.png)
     
 
 ### Column Section
@@ -88,13 +105,20 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 * Show Bronze Valet, Silver Valet, Gold Valet and Platinum Valet with pricing and what item on the list.
 
  ![Alt text](documentation/Image/column.png)
-    
+
+* Responsive Column Section
+
+  ![alt text](assets/image/responsive.png)  
 
 ### Our Work
 
 * We are allowing the customer to read what involves cleaning and restoration of a vehicle, both inside and out.
 
  ![Alt text](documentation/Image/our-work.png)
+
+* Responsive Our Work
+
+ ![alt text](assets/image/responsiveourwork.png)
     
 
 ### Polishing/Paint Correction
@@ -102,6 +126,10 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 * We are allowing the customer to read what involves polishing/paint correction.
 
  ![Alt text](documentation/Image/polishing-paint-correction.png)
+
+* Responsive Polishing/Paint Correction
+
+ ![alt text](assets/image/responsivepaint.png)
     
 
 ### Headlight Restoration
@@ -109,22 +137,35 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 * We are allowing the customer to read what involves headlight restoration.
 
  ![Alt text](documentation/Image/headlight-restoration.png)
+
+* Responsive Headlight Restoration
+
+ ![alt text](assets/image/responsiveheadlight.png)
     
 ### Leather Restoration
 
 * We are allowing the customer to read what involves leather restoration.
 
  ![Alt text](documentation/Image/leather-restoration.png)
+
+* Responsive Leather Restoration
+
+ ![alt text](assets/image/responsiveleather.png)
     
 ### Join our Membership
 
 * We are allowing the customer to join our membership for a year to get discounts all year round on products and services.
 
  ![Alt text](documentation/Image/join-our-membership.png)
+
+* Responsive Join our Membership
+
+ ![alt text](assets/image/responsivejoinus.png)
     
 ### Book a Services
 
 * We are allowing show the customer what valet involves and extra.
+
  ![Alt text](documentation/Image/book-a-services.png)
 
 * The form allows customer to book a services, book a reservation on a specific date. 
@@ -133,11 +174,19 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
     
 * I did make a calendar but it is not working for me and no time for it that I need learn more about what date is available and what is not available. I change input instead of calendar.
 
+* Responsive Book a Services
+
+ ![alt text](assets/image/responsivebookaservices.png)
+
 ### Contact Us
 
 * The form allows customers to contact us.
 
  ![Alt text](documentation/Image/contact-us.png)
+
+* Responsive Contact Us
+
+ ![alt text](assets/image/responsivecontactus.png)
     
 
 ## Testing:
@@ -154,13 +203,22 @@ I have used the recommended HTML W3C Validator (https://validator.w3.org) to val
 |  | book-a-services.html | ![screenshot](documentation/validator/validator-book-a-services.png) | There were no syntax errors. |
 |  | contact-us.html | ![screenshot](documentation/validator/validator-contact-us.png) |  There were no syntax errors. |
 
+### W3C CSS Validator
+
+I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+| Directory | File | Screenshot | Notes |
+| --- | --- | --- | --- |
+| assets | style.css | ![screenshot](documentation/validator/w3c-css.png) | There were no errors.
+
+
 ## Am I Responsive:
 
 ### Am I Responsive?
 
 * Used to check responsiveness of the site pages across different devices.
 
-(https://ui.dev/amiresponsive)
+![Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
 
 ![Alt text](documentation/am-i-responsive/am-i-responsive.png)
     
@@ -177,14 +235,6 @@ I've tested my deployed project using the Lighthouse Audit tool to check for any
 | Book a Services | ![Mobile](documentation/accessibility/bookaservices-mobile.png) | ![Desktop](documentation/accessibility/bookaservices-desktop.png) | 95 Accessibility |
 | Contact Us | ![Mobile](documentation/accessibility/contactus-mobile.png) | ![Desktop](documentation/accessibility/contactus-desktop.png) | 100 Accessibility |
 
-
-### W3C CSS Validator
-
-I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
-
-| Directory | File | Screenshot | Notes |
-| --- | --- | --- | --- |
-| assets | style.css | ![screenshot](documentation/validator/w3c-css.png) | There were no errors.
 
 ### Responsiveness
 
@@ -217,7 +267,7 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 
 * This website was developed using Codeanywhere but there was problem and I have to change to GitHub.
 
-    (https://github.com/trxdave/kleandetailing)
+    ![GitHub](https://github.com/trxdave/kleandetailing)
 
 ## Credit:
 
@@ -243,9 +293,13 @@ Pexels (https://www.pexels.com/photo/a-person-polishing-the-car-s-body-14231701/
 
 Pexels (https://www.pexels.com/photo/man-washing-his-car-14231676/)
 
-### Code
+### Libraries/Programs Used
 
-* W3Schools - I used this regularly. (https://www.w3schools.com/)
-* Flexbox Froggy - Got all level 24 of 24. (https://flexboxfroggy.com/)
-* ColorZilla - I use this colour coding. (https://www.colorzilla.com/chrome/)
-* Font awesome - I used social media for icons with color (https://fontawesome.com/)
+* I regularly use W3Schools. ![W3Schools](https://www.w3schools.com/)
+* I have completed all 24 levels of Flexbox Froggy. ![Flexbox Froggy](https://flexboxfroggy.com/)
+* I use ColorZilla for colour coding. ![ColorZilla](https://www.colorzilla.com/chrome/)
+* I used Font Awesome to incorporate social media icons with color into my project. ![Font Awesome](https://fontawesome.com/)
+* While searching for information on responsive form layout, I came across Transform on W3Schools. Hopefully, this will work! ![Transform](https://www.w3schools.com/css/tryit.asp?filename=trycss_align_transform)
+* It helps users improve the quality and correctness of their written communication by identifying grammatical errors, spelling mistakes, punctuation issues, and style inconsistencies in their text. [Grammarly](https://www.grammarly.com/)
+* GitHub is a software hosting platform that enables users to store their projects in a remote location. This allows for easy access and collaboration on the project from different locations. [GitHub](https://www.github.com/)
+* GitPod as developer hosting platform. [GitPod](https://www.gitpod.com)
