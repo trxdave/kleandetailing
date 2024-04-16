@@ -49,12 +49,13 @@ I designed the logo back in 2022.
 Balsamiq was used to design the website layout during the planning phase. Here are my layout designs.
 
 | Page | Desktop | Mobile |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Index | ![alt text](documentation/wireframe/home.png) | ![alt text](<documentation/wireframe/mobile-home.png>) |
 | Our Work | ![alt text](<documentation/wireframe/our-work.png>) | ![alt text](<documentation/wireframe/mobile-ow.png>) |
 | Membership | ![alt text](documentation/wireframe/membership.png) | ![alt text](<documentation/wireframe/mobile-jom.png>) |
 | Book a Services | ![alt text](<documentation/wireframe/book-a-services.png>) | ![alt text](<documentation/wireframe/mobile-bas.png>) |
 | Contact Us | ![alt text](<documentation/wireframe/contact-us.png>) | ![alt text](<documentation/wireframe/mobile-cu.png>) |
+
 
 ## Features
 
