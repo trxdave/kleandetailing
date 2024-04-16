@@ -14,13 +14,13 @@ Visit the deployed website [Klean Detailing Am I Reponsive?](https://ui.dev/amir
 
 ### Project
 
-* Show the price of different types of Valeting.
+* Display the cost of various Valeting options using captivating visuals and detailed descriptions.
 
-* Booking a Services online.
+* Booking a Services online when they are available to booking a services.
 
-* Contact Us.
+* Contact Us if you have any questions or concerns. We are here to help.
 
-* Show what our work job doing.
+* Show example what our work job we are doing cleaning the vehicles.
 
 * Optimize the website for search engines to increase visibility and attract customers.
 
@@ -195,6 +195,8 @@ Balsamiq - I could not use this. I used the design on my a4 pad for 5 pages of l
 
 I have used the recommended HTML W3C Validator [W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 
+There were a few errors on the Validator, but I have fixed them. There are no syntax errors now.
+
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
 | assets/validator | index.html | ![screenshot](documentation/validator/validator-index.png) | There were no syntax errors. |
@@ -206,6 +208,8 @@ I have used the recommended HTML W3C Validator [W3C Validator](https://validator
 ### W3C CSS Validator
 
 I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
+
+I checked my CSS thoroughly and did not find any errors or warnings.
 
 | Directory | File | Screenshot | Notes |
 | --- | --- | --- | --- |
@@ -303,3 +307,9 @@ Pexels [Pexels Photography](https://www.pexels.com/photo/man-washing-his-car-142
 * It helps users improve the quality and correctness of their written communication by identifying grammatical errors, spelling mistakes, punctuation issues, and style inconsistencies in their text. [Grammarly](https://www.grammarly.com/)
 * GitHub is a software hosting platform that enables users to store their projects in a remote location. This allows for easy access and collaboration on the project from different locations. [GitHub](https://www.github.com/)
 * GitPod as developer hosting platform. [GitPod](https://www.gitpod.com)
+* Balsamiq was used to create the wireframes during the design phase of the project. [Balsmiq](https://balsamiq.com/)
+* Responsive Design Checker was used in the testing process to check responsiveness on various devices. [Responsive Design Checker](https://www.responsivedesignchecker.com/checker.php?url=https%3A%2F%2Ftrxdave.github.io%2Fkleandetailing%2F&width=1400&height=700)
+* Am I Responsive was used to see responsive design throughout the process and to generate mockup imagery to be used. [Am I Responsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
+* Chrome DevTools was used during development process for code review and to test responsiveness. [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+* W3C Markup Validator was used to validate the HTML code. [W3C Markup Validator](https://validator.w3.org/)
+* W3C CSS Validator was used to validate the CSS code. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
