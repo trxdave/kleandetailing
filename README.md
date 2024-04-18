@@ -338,3 +338,4 @@ I've tested my deployed project on multiple devices to check for responsiveness 
 * Chrome DevTools was used during development process for code review and to test responsiveness. [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 * W3C Markup Validator was used to validate the HTML code. [W3C Markup Validator](https://validator.w3.org/)
 * W3C CSS Validator was used to validate the CSS code. [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+* I was searching for the website's tab favicon to add the logo to the website tab. [Favicon](https://www.w3schools.com/html/html_favicon.asp) 
