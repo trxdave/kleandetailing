@@ -67,6 +67,11 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 ### General
 
+### Favicon
+
+* The website tab, there is favicon with a logo on it.
+
+![alt text](assets/image/tab-favicon.png)
 
 ### Header with Navigation Bar
 
