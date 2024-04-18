@@ -36,9 +36,9 @@ The colours used in the site are black (#020202), Dark Goldenrod (#A38A09), Baby
 
 I used [coolors.co](https://coolors.co/020202-a38a09-fefefc-272727) to generate my colour palette.
 
-![alt text](documentation/Image/colours.png)
+![alt text](documentation/image/colours.png)
 
-### Text
+### Font Text
 
 I use google font website [Fonts Google](https://fonts.google.com/)
 
@@ -73,11 +73,11 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 * The header contains the business logo top of the screen.
 * 5 pages bar includes links to the Home, Our Works, Membership, Book a  Services, Contact Us. The section will easily navigate from page to page across all devices.
 
- ![Alt text](documentation/Image/header.png)
+ ![Alt text](documentation/image/header.png)
 
 * The button highlighted in Dark Goldenrod (#A38A09) on desktop and mobile devices.
 
- ![alt text](documentation/Image/hover.png)
+ ![alt text](documentation/image/hover.png)
 
 * Responsive Header with Navigation Bar
 
@@ -87,7 +87,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * The footer includes a logo, location address and social media channels.
 
- ![Alt text](documentation/Image/footer.png)
+ ![Alt text](documentation/image/footer.png)
 
 * Responsive Footer
 
@@ -98,7 +98,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * Hero Image is designed to attract the customer's attention with a car wash.
 
- ![Alt text](documentation/Image/landing-page.png)
+ ![Alt text](documentation/image/landing-page.png)
 
 * Responsive Landing Page
 
@@ -109,7 +109,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * Information car wash, valeting and detailing.
 
- ![Alt text](documentation/Image/info-section.png)
+ ![Alt text](documentation/image/info-section.png)
 
 * Responsive Info Section
 
@@ -121,7 +121,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 * We are allowing the customer to read what the business has to offer.
 * Show Bronze Valet, Silver Valet, Gold Valet and Platinum Valet with pricing and what item on the list.
 
- ![Alt text](documentation/Image/column.png)
+ ![Alt text](documentation/image/column.png)
 
 * Responsive Column Section
 
@@ -131,7 +131,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * We are allowing the customer to read what involves cleaning and restoration of a vehicle, both inside and out.
 
- ![Alt text](documentation/Image/our-work.png)
+ ![Alt text](documentation/image/our-work.png)
 
 * Responsive Our Work
 
@@ -142,7 +142,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * We are allowing the customer to read what involves polishing/paint correction.
 
- ![Alt text](documentation/Image/polishing-paint-correction.png)
+ ![Alt text](documentation/image/polishing-paint-correction.png)
 
 * Responsive Polishing/Paint Correction
 
@@ -153,7 +153,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * We are allowing the customer to read what involves headlight restoration.
 
- ![Alt text](documentation/Image/headlight-restoration.png)
+ ![Alt text](documentation/image/headlight-restoration.png)
 
 * Responsive Headlight Restoration
 
@@ -163,7 +163,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * We are allowing the customer to read what involves leather restoration.
 
- ![Alt text](documentation/Image/leather-restoration.png)
+ ![Alt text](documentation/image/leather-restoration.png)
 
 * Responsive Leather Restoration
 
@@ -173,7 +173,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * We are allowing the customer to join our membership for a year to get discounts all year round on products and services.
 
- ![Alt text](documentation/Image/join-our-membership.png)
+ ![Alt text](documentation/image/join-our-membership.png)
 
 * Responsive Join our Membership
 
@@ -183,11 +183,11 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * We are allowing show the customer what valet involves and extra.
 
- ![Alt text](documentation/Image/book-a-services.png)
+ ![Alt text](documentation/image/book-a-services.png)
 
 * The form allows customer to book a services, book a reservation on a specific date. 
 
- ![Alt text](documentation/Image/book-form.png)
+ ![Alt text](documentation/image/book-form.png)
     
 * I did make a calendar but it is not working for me and no time for it that I need learn more about what date is available and what is not available. I change input instead of calendar.
 
@@ -199,7 +199,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 * The form allows customers to contact us.
 
- ![Alt text](documentation/Image/contact-us.png)
+ ![Alt text](documentation/image/contact-us.png)
 
 * Responsive Contact Us
 
