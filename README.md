@@ -69,7 +69,7 @@ Balsamiq was used to design the website layout during the planning phase. Here a
 
 ### Favicon
 
-* The website tab, there is favicon with a logo on it.
+* On the website tab, you will notice a small icon, called a favicon, that displays a logo representing the website.
 
 ![alt text](assets/image/tab-favicon.png)
 
