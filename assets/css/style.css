@@ -742,6 +742,18 @@ img.contact-image {
 }
 
 /* Media queries large (laptops and desktop) */
+@media screen and (max-width: 1170px) {
+  .join-us {
+    max-width: 450px;
+    transform: translate(350px, -760px);
+  }
+  .contact-us {
+    transform: translate(330px, -650px);
+    width: 80%;
+  }
+}
+
+/* Media queries large (laptops and desktop) */
 @media screen and (max-width: 1024px) {
   .join-us {
     max-width: 450px;
