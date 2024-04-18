@@ -1,5 +1,9 @@
 # Klean Detailing
 
+This project is a website for a car detailing business called Klean Detailing, based in Cork, Ireland. The website serves as a platform to showcase the services offered by the business, provide pricing details, and enable customers to contact the company easily.
+
+[View the live project here](https://trxdave.github.io/kleandetailing/index.html)
+
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/trxdave/kleandetailing)](https://github.com/trxdave/kleandetailing/commits/main)
 [![GitHub last commit](https://img.shields.io/github/last-commit/trxdave/kleandetailing)](https://github.com/trxdave/kleandetailing/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/trxdave/kleandetailing)](https://github.com/trxdave/kleandetailing)
@@ -8,7 +12,7 @@
 
 ![Klean Detailing mockup images](documentation/am-i-responsive/am-i-responsive.png)
 
-Visit the deployed website [Klean Detailing Am I Reponsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
+Visit the deployed website [Klean Detailing Am I Responsive?](https://ui.dev/amiresponsive?url=https://trxdave.github.io/kleandetailing/)
 
 ## UX
 
