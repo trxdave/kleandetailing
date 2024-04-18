@@ -634,6 +634,20 @@ article.mobile-email {
   }
 }
 
+  /* Media queries large screens (1680px) */
+  @media screen and (max-width: 1680px) {
+    .join-us {
+      width: 90%;
+      transform: translate(140%, -960px);
+    }
+
+    .contact-us {
+      transform: translate(600px, -1150px);
+      width: 100%;
+    }
+  }
+
+
   /* Media queries large screens (1620px) */
   @media screen and (max-width: 1620px) {
     .join-us {
@@ -659,7 +673,36 @@ article.mobile-email {
       width: 100%;
     }
 
+  }
+  
+  /* Media queries large screens (1400px) */
+  @media screen and (max-width: 1400px) {
+    .join-us {
+      width: 90%;
+      transform: translate(110%, -840px);
+    }
+
+    .contact-us {
+      transform: translate(430px, -1050px);
+      width: 100%;
+    }
+
   }  
+
+  /* Media queries large screens (1366px) */
+  @media screen and (max-width: 1366px) {
+    .join-us {
+      width: 90%;
+      transform: translate(105%, -840px);
+    }
+
+    .contact-us {
+      transform: translate(400px, -1050px);
+      width: 100%;
+    }
+
+  }
+
 
 /* Media queries large screens (1200px and up) */
 @media screen and (max-width: 1280px) {
@@ -1011,7 +1054,13 @@ img.contact-image {
 }
 }
 
-/* footer */
+/* Media queries Tablets and larger screen */
+@media screen and (max-width: 660px) {
+  .contact-us {
+    transform: translate(80px, -630px);
+    width: 80%;
+  }
+}
 
 /* Media queries Tablets and larger screen */
 @media screen and (max-width: 600px) {
@@ -1069,7 +1118,7 @@ img.contact-image {
 
 .join-us {
   width: 90%;
-  transform: translate(25px, -800px);
+  transform: translate(60px, -800px);
 }
 
 img.join-us-image {
@@ -1103,7 +1152,7 @@ img.contact-image {
 }
 
 .contact-us {
-  transform: translate(35px, -630px);
+  transform: translate(40px, -630px);
   width: 80%;
 }
 
@@ -1117,6 +1166,14 @@ img.contact-image {
   margin-left: auto;
   margin-right: auto;
 }}
+
+/* Media queries Mobile screen */
+@media screen and (max-width: 560px) {
+  .join-us {
+    width: 80%;
+    transform: translate(25px, -800px);
+  }
+}
 
 /* Media queries Mobile screen */
 @media screen and (max-width: 480px) {
@@ -1278,6 +1335,17 @@ img.contact-image {
   .join-us {
     width: 80%;
     transform: translate(18px, -825px);
+  }
+}
+
+/* Media queries Mobile screen */
+@media screen and (max-width: 320px) {
+  
+  /* Membership */
+  
+  .join-us {
+    width: 80%;
+    transform: translate(15px, -825px);
   }
 }
 
