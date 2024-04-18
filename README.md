@@ -18,15 +18,17 @@ Visit the deployed website [Klean Detailing Am I Responsive?](https://ui.dev/ami
 
 ### Project
 
-* Display the cost of various Valeting options using captivating visuals and detailed descriptions.
+* Detailed information about various car detailing services provided by Klean Detailing, including bronze, silver, gold, and platinum valeting packages.
 
-* Booking a Services online when they are available to booking a services.
+* Clear pricing information for each valeting package, allowing customers to choose the service that best fits their needs and budget.
 
-* Contact Us if you have any questions or concerns. We are here to help.
+* Contact details, including the business address and links to social media platforms, making it convenient for customers to reach out for inquiries or bookings.
 
 * Show example what our work job we are doing cleaning the vehicles.
 
 * Optimize the website for search engines to increase visibility and attract customers.
+
+* The website is designed to be responsive, ensuring a seamless browsing experience across different devices and screen sizes.
 
 ### Color
 
@@ -241,6 +243,15 @@ I checked my CSS thoroughly and did not find any errors or warnings.
 
 ![Alt text](documentation/am-i-responsive/am-i-responsive.png)
     
+### Technologies Used
+
+- HTML
+- CSS
+- Font Awesome (for social media icons)
+- Gitpod
+- GitHub
+- Google Fonts
+- Google Chrome DevTools
 
 ### Accessibility:
 
